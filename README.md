@@ -69,13 +69,13 @@ Na **MAIN Empresa Júnior** vivo o ciclo completo de um projeto — do comercial
 
 <sub><code>// LINGUAGENS & WEB</code></sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,c,nodejs,react&theme=dark"/>
 
 <br/><br/>
 
 <sub><code>// CLOUD & SISTEMA</code></sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=aws,linux,windows&theme=dark"/>
 
 <br/><br/>
 
