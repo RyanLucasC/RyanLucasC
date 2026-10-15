@@ -257,21 +257,8 @@ ryan@neural-core:~$ █
 
 </div>
 
-<!-- ═════════════════════ 09 · SNAKE ═════════════════════ -->
-## <img src="https://img.shields.io/badge/09-CONTRIBUTION__GRID-00e5ff?style=flat-square&labelColor=050b1a" height="26"/>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanLucasC/RyanLucasC/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanLucasC/RyanLucasC/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/RyanLucasC/RyanLucasC/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
-
-</div>
-
-<!-- ═════════════════════ 10 · CONEXÃO ═════════════════════ -->
-## <img src="https://img.shields.io/badge/10-ESTABELECER__CONEX%C3%83O-ff2bd6?style=flat-square&labelColor=050b1a" height="26"/>
+<!-- ═════════════════════ 09 · CONEXÃO ═════════════════════ -->
+## <img src="https://img.shields.io/badge/09-ESTABELECER__CONEX%C3%83O-00e5ff?style=flat-square&labelColor=050b1a" height="26"/>
 
 <div align="center">
 
