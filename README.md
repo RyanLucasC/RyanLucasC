@@ -9,10 +9,10 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,45:050b1a,75:0b1f3f,100:00e5ff&height=270&section=header&text=RYAN%20LUCAS%20CARDOSO&fontSize=54&fontColor=00e5ff&fontAlignY=40&desc=%E2%97%A2%20SYSTEM%20ONLINE%20%E2%97%A3%20%20Software%20Engineering%20%C2%B7%20Data%20%C2%B7%20AI&descSize=18&descAlignY=62&descAlign=50&animation=twinkling&stroke=00e5ff&strokeWidth=1" width="100%" alt="Ryan Lucas Cardoso"/>
 
 <!-- ░░░ SEQUÊNCIA DE BOOT ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1600&pause=350&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=135&lines=%3E+booting+R.Y.A.N+core...........................+%5B+OK+%5D;%3E+mounting+%2Fdata-engineering....................+%5B+OK+%5D;%3E+linking+realtime+modules+(MQTT+%2F+WebSocket).......+%5B+OK+%5D;%3E+connecting+to+UEM+%E2%80%94+Maring%C3%A1%2C+PR..............+%5B+OK+%5D;%3E+access+granted.+welcome%2C+visitor_" alt="boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1600&pause=350&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=135&lines=%3E+booting+R.Y.A.N+core...........................+%5B+OK+%5D;%3E+mounting+%2Fdata-engineering....................+%5B+OK+%5D;%3E+linking+cloud+modules+(AWS)....................+%5B+OK+%5D;%3E+connecting+to+UEM+%E2%80%94+Maring%C3%A1%2C+PR..............+%5B+OK+%5D;%3E+access+granted.+welcome%2C+visitor_" alt="boot sequence"/>
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2800&pause=900&color=FF2BD6&center=true&vCenter=true&width=720&lines=Software+Engineering+Student+%40+UEM;Future+Data+Engineer+%E2%9A%A1;Building+real-time+logistics+systems+%F0%9F%9A%9B;Python+%C2%B7+Cloud+%C2%B7+Artificial+Intelligence;Code.+Deploy.+Evolve." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2800&pause=900&color=FF2BD6&center=true&vCenter=true&width=720&lines=Software+Engineering+Student+%40+UEM;Future+Data+Engineer+%E2%9A%A1;Building+logistics+systems+%F0%9F%9A%9B;Python+%C2%B7+Cloud+%C2%B7+Artificial+Intelligence;Code.+Deploy.+Evolve." alt="typing"/>
 
 <br/>
 
@@ -56,7 +56,7 @@ Estudante de **Engenharia de Software na UEM**, conectando desenvolvimento, dado
 
 Na **MAIN Empresa Júnior** vivo o ciclo completo de um projeto — do comercial à entrega. Na **RR Transportes** construo sistemas internos para logística de grãos, calcário e gestão de frota.
 
-⚡ Movido a **dados em tempo real**, arquitetura bem feita e café.
+⚡ Movido a **cloud**, código bem feito e café.
 
 </td>
 </tr>
@@ -69,26 +69,20 @@ Na **MAIN Empresa Júnior** vivo o ciclo completo de um projeto — do comercial
 
 <sub><code>// LINGUAGENS & WEB</code></sub>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,md&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark"/>
 
 <br/><br/>
 
-<sub><code>// DADOS · TEMPO REAL · IA</code></sub>
+<sub><code>// CLOUD & SISTEMA</code></sub>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=aws,linux&theme=dark"/>
+
+<br/><br/>
+
+<sub><code>// DADOS & IA</code></sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Data_Engineering-050b1a?style=for-the-badge&logo=apacheairflow&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-050b1a?style=for-the-badge&logo=openai&logoColor=ff2bd6"/>
-<img src="https://img.shields.io/badge/MQTT-050b1a?style=for-the-badge&logo=mqtt&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/WebSocket-050b1a?style=for-the-badge&logo=socketdotio&logoColor=ff2bd6"/>
-<img src="https://img.shields.io/badge/Leaflet-050b1a?style=for-the-badge&logo=leaflet&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/OpenStreetMap-050b1a?style=for-the-badge&logo=openstreetmap&logoColor=ff2bd6"/>
-
-<br/><br/>
-
-<sub><code>// CLOUD & INFRA</code></sub>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,linux,githubactions&theme=dark"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Hostinger-050b1a?style=for-the-badge&logo=hostinger&logoColor=00e5ff" height="48"/>
+<img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-050b1a?style=for-the-badge&logo=openai&logoColor=ff2bd6"/>
 
 </div>
 
@@ -97,16 +91,11 @@ Na **MAIN Empresa Júnior** vivo o ciclo completo de um projeto — do comercial
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,notion,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/VS_Code-050b1a?style=for-the-badge&logo=visualstudiocode&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/Git-050b1a?style=for-the-badge&logo=git&logoColor=ff2bd6"/>
-<img src="https://img.shields.io/badge/GitHub-050b1a?style=for-the-badge&logo=github&logoColor=00e5ff"/>
 <img src="https://img.shields.io/badge/Claude_AI-050b1a?style=for-the-badge&logo=anthropic&logoColor=ff2bd6"/>
-<img src="https://img.shields.io/badge/Linux-050b1a?style=for-the-badge&logo=linux&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/Notion-050b1a?style=for-the-badge&logo=notion&logoColor=ff2bd6"/>
 
 </div>
 
@@ -132,23 +121,6 @@ Na **MAIN Empresa Júnior** vivo o ciclo completo de um projeto — do comercial
 </td>
 <td width="50%" valign="top">
 
-<h3>📍 Pontoos — Rastreamento Real-Time</h3>
-<sub><code>ARQUITETURA · TELEMETRIA</code></sub>
-
-<p>Painel logístico com rastreamento de veículos em tempo real, baseado em protocolos de baixa latência e mapas interativos open source.</p>
-
-<img src="https://img.shields.io/badge/MQTT-050b1a?style=flat-square&logo=mqtt&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/WebSocket-050b1a?style=flat-square&logo=socketdotio&logoColor=ff2bd6"/>
-<img src="https://img.shields.io/badge/Leaflet-050b1a?style=flat-square&logo=leaflet&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/OSM-050b1a?style=flat-square&logo=openstreetmap&logoColor=ff2bd6"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/%E2%97%8F_EM_ARQUITETURA-ff2bd6?style=flat-square&labelColor=050b1a"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 <h3>💼 MAIN Empresa Júnior</h3>
 <sub><code>OPERAÇÕES & PROJETOS · UEM</code></sub>
 
@@ -160,7 +132,9 @@ Na **MAIN Empresa Júnior** vivo o ciclo completo de um projeto — do comercial
 <img src="https://img.shields.io/badge/%E2%97%8F_ATIVO-00e5ff?style=flat-square&labelColor=050b1a"/>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" align="center" valign="top">
 
 <h3>🧠 Próximo Deploy</h3>
 <sub><code>SLOT RESERVADO</code></sub>
@@ -168,8 +142,8 @@ Na **MAIN Empresa Júnior** vivo o ciclo completo de um projeto — do comercial
 <p>Pipelines de dados, IA aplicada e cloud na AWS. Os próximos repositórios públicos vão aparecer aqui — acompanhe o perfil.</p>
 
 <img src="https://img.shields.io/badge/AWS-050b1a?style=flat-square&logo=amazonwebservices&logoColor=00e5ff"/>
-<img src="https://img.shields.io/badge/Data-050b1a?style=flat-square&logo=apacheairflow&logoColor=ff2bd6"/>
-<img src="https://img.shields.io/badge/AI-050b1a?style=flat-square&logo=openai&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/Python-050b1a?style=flat-square&logo=python&logoColor=ff2bd6"/>
+<img src="https://img.shields.io/badge/HTML_%C2%B7_CSS_%C2%B7_JS-050b1a?style=flat-square&logo=javascript&logoColor=00e5ff"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/%E2%97%8F_EM_BREVE-8b949e?style=flat-square&labelColor=050b1a"/>
 
@@ -189,7 +163,6 @@ ryan@neural-core:~$ ./mission_control --list --year=2026
   ╚════════════════════════════════════════════════════════════╝
 
   [ RUNNING ]  🚛  Colocar o ERP logístico da RR Transportes em produção
-  [ RUNNING ]  📍  Arquitetar o rastreamento real-time (MQTT + WebSocket)
   [ RUNNING ]  ☁️   Certificação AWS Cloud Practitioner
   [ RUNNING ]  🧠  Fundamentos de IA & Machine Learning
   [ QUEUED  ]  📊  Primeiros pipelines de Engenharia de Dados
@@ -202,8 +175,72 @@ ryan@neural-core:~$ echo $NEXT_DIRECTIVE
 ryan@neural-core:~$ █
 ```
 
-<!-- ═════════════════════ 06 · ANALYTICS ═════════════════════ -->
-## <img src="https://img.shields.io/badge/06-SYSTEM__ANALYTICS-ff2bd6?style=flat-square&labelColor=050b1a" height="26"/>
+<!-- ═════════════════════ 06 · CERTIFICAÇÕES ═════════════════════ -->
+## <img src="https://img.shields.io/badge/06-CERTIFICA%C3%87%C3%95ES__%26__BADGES-ff2bd6?style=flat-square&labelColor=050b1a" height="26"/>
+
+<div align="center">
+
+<!-- Atualize o número conforme for concluindo: troque 0 pelo total de badges obtidos -->
+<img src="https://img.shields.io/badge/PROGRESSO-0%20%2F%2017%20CONCLU%C3%8DDAS-00e5ff?style=for-the-badge&labelColor=050b1a&logo=credly&logoColor=00e5ff"/>
+
+<br/><br/>
+
+<table>
+<tr>
+<td width="24%" align="center"><code>FASE 01</code><br/><sub><b>Linux & Cloud</b></sub><br/><br/><img src="https://img.shields.io/badge/%E2%97%8F_EM_ANDAMENTO-00e5ff?style=flat-square&labelColor=050b1a"/></td>
+<td width="76%" align="center">
+<a href="https://training.linuxfoundation.org/training/introduction-to-linux/"><img src="https://img.shields.io/badge/LFS101_Linux-050b1a?style=for-the-badge&logo=linuxfoundation&logoColor=00e5ff"/></a>
+<a href="https://skillbuilder.aws/learning-plan/EKHCUEWUUC/aws-simulearn-cloud-practitioner/1UQVR262ZB"><img src="https://img.shields.io/badge/SimuLearn_Cloud_Practitioner-050b1a?style=for-the-badge&logo=amazonwebservices&logoColor=ff2bd6"/></a>
+</td>
+</tr>
+<tr>
+<td width="24%" align="center"><code>FASE 02</code><br/><sub><b>Fundamentos AWS</b></sub><br/><br/><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=050b1a"/></td>
+<td width="76%" align="center">
+<a href="https://skillbuilder.aws/learn/63URRERNTS/cloud-essentials-knowledge-badge-assessment/VYB4663QV9"><img src="https://img.shields.io/badge/Cloud_Essentials_Knowledge_Badge-050b1a?style=for-the-badge&logo=amazonwebservices&logoColor=00e5ff"/></a>
+</td>
+</tr>
+<tr>
+<td width="24%" align="center"><code>FASE 03</code><br/><sub><b>Dados</b></sub><br/><br/><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=050b1a"/></td>
+<td width="76%" align="center">
+<a href="https://www.databricks.com/resources/learn/training/databricks-fundamentals"><img src="https://img.shields.io/badge/Databricks_Fundamentals-050b1a?style=for-the-badge&logo=databricks&logoColor=ff2bd6"/></a>
+<a href="https://learn.getdbt.com"><img src="https://img.shields.io/badge/dbt_Fundamentals-050b1a?style=for-the-badge&logo=dbt&logoColor=00e5ff"/></a>
+<a href="https://www.netacad.com/courses/data-analytics-essentials?courseLang=en-US"><img src="https://img.shields.io/badge/Cisco_Data_Analytics_Essentials-050b1a?style=for-the-badge&logo=cisco&logoColor=ff2bd6"/></a>
+</td>
+</tr>
+<tr>
+<td width="24%" align="center"><code>FASE 04</code><br/><sub><b>Inteligência Artificial</b></sub><br/><br/><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=050b1a"/></td>
+<td width="76%" align="center">
+<a href="https://skillbuilder.aws/learning-plan/3HCD821CNZ/aws-simulearn-ai-practitioner/BFKGA5VM8H"><img src="https://img.shields.io/badge/SimuLearn_AI_Practitioner-050b1a?style=for-the-badge&logo=amazonwebservices&logoColor=00e5ff"/></a>
+<a href="https://www.databricks.com/resources/learn/training/generative-ai-fundamentals"><img src="https://img.shields.io/badge/Databricks_Generative_AI-050b1a?style=for-the-badge&logo=databricks&logoColor=ff2bd6"/></a>
+<a href="https://www.databricks.com/resources/training/level-your-ai-agent-skills"><img src="https://img.shields.io/badge/Databricks_AI_Agent-050b1a?style=for-the-badge&logo=databricks&logoColor=00e5ff"/></a>
+</td>
+</tr>
+<tr>
+<td width="24%" align="center"><code>FASE 05</code><br/><sub><b>DevOps · Segurança · Streaming</b></sub><br/><br/><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=050b1a"/></td>
+<td width="76%" align="center">
+<a href="https://training.linuxfoundation.org/training/introduction-to-kubernetes/"><img src="https://img.shields.io/badge/LFS158_Kubernetes-050b1a?style=for-the-badge&logo=kubernetes&logoColor=ff2bd6"/></a>
+<a href="https://training.linuxfoundation.org/training/introduction-to-devops-and-site-reliability-engineering-lfs162/"><img src="https://img.shields.io/badge/LFS162_DevOps_%26_SRE-050b1a?style=for-the-badge&logo=linuxfoundation&logoColor=00e5ff"/></a>
+<a href="https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US"><img src="https://img.shields.io/badge/Cisco_Cybersecurity-050b1a?style=for-the-badge&logo=cisco&logoColor=ff2bd6"/></a>
+<a href="https://www.confluent.io/training/"><img src="https://img.shields.io/badge/Confluent_Kafka_Fundamentals-050b1a?style=for-the-badge&logo=apachekafka&logoColor=00e5ff"/></a>
+</td>
+</tr>
+<tr>
+<td width="24%" align="center"><code>FASE 06</code><br/><sub><b>Treino & Certificações AWS</b></sub><br/><br/><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=050b1a"/></td>
+<td width="76%" align="center">
+<a href="https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT"><img src="https://img.shields.io/badge/Cloud_Quest_Cloud_Practitioner-050b1a?style=for-the-badge&logo=amazonwebservices&logoColor=ff2bd6"/></a>
+<a href="https://skillbuilder.aws/learn/5YB3FCEE1H/aws-cloud-quest-generative-ai-practitioner/26A81MG83V"><img src="https://img.shields.io/badge/Cloud_Quest_Gen_AI_Practitioner-050b1a?style=for-the-badge&logo=amazonwebservices&logoColor=00e5ff"/></a>
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-050b1a?style=for-the-badge&logo=amazonwebservices&logoColor=ff2bd6"/></a>
+<a href="https://aws.amazon.com/certification/certified-ai-practitioner/"><img src="https://img.shields.io/badge/AWS_Certified_AI_Practitioner-050b1a?style=for-the-badge&logo=amazonwebservices&logoColor=00e5ff"/></a>
+</td>
+</tr>
+</table>
+
+<sub><code>// quando concluir um badge, troque "NA FILA" por "CONCLUÍDO" e aumente o contador</code></sub>
+
+</div>
+
+<!-- ═════════════════════ 07 · ANALYTICS ═════════════════════ -->
+## <img src="https://img.shields.io/badge/07-SYSTEM__ANALYTICS-00e5ff?style=flat-square&labelColor=050b1a" height="26"/>
 
 <div align="center">
 
@@ -220,8 +257,8 @@ ryan@neural-core:~$ █
 
 </div>
 
-<!-- ═════════════════════ 07 · TROFÉUS ═════════════════════ -->
-## <img src="https://img.shields.io/badge/07-ACHIEVEMENTS-00e5ff?style=flat-square&labelColor=050b1a" height="26"/>
+<!-- ═════════════════════ 08 · TROFÉUS ═════════════════════ -->
+## <img src="https://img.shields.io/badge/08-ACHIEVEMENTS-ff2bd6?style=flat-square&labelColor=050b1a" height="26"/>
 
 <div align="center">
 
@@ -229,8 +266,8 @@ ryan@neural-core:~$ █
 
 </div>
 
-<!-- ═════════════════════ 08 · SNAKE ═════════════════════ -->
-## <img src="https://img.shields.io/badge/08-CONTRIBUTION__GRID-ff2bd6?style=flat-square&labelColor=050b1a" height="26"/>
+<!-- ═════════════════════ 09 · SNAKE ═════════════════════ -->
+## <img src="https://img.shields.io/badge/09-CONTRIBUTION__GRID-00e5ff?style=flat-square&labelColor=050b1a" height="26"/>
 
 <div align="center">
 
@@ -242,8 +279,8 @@ ryan@neural-core:~$ █
 
 </div>
 
-<!-- ═════════════════════ 09 · CONEXÃO ═════════════════════ -->
-## <img src="https://img.shields.io/badge/09-ESTABELECER__CONEX%C3%83O-00e5ff?style=flat-square&labelColor=050b1a" height="26"/>
+<!-- ═════════════════════ 10 · CONEXÃO ═════════════════════ -->
+## <img src="https://img.shields.io/badge/10-ESTABELECER__CONEX%C3%83O-ff2bd6?style=flat-square&labelColor=050b1a" height="26"/>
 
 <div align="center">
 
