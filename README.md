@@ -235,7 +235,6 @@ ryan@neural-core:~$ █
 </tr>
 </table>
 
-<sub><code>// quando concluir um badge, troque "NA FILA" por "CONCLUÍDO" e aumente o contador</code></sub>
 
 </div>
 
@@ -244,25 +243,17 @@ ryan@neural-core:~$ █
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=RyanLucasC&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&bg_color=050b1a&title_color=00e5ff&icon_color=ff2bd6&text_color=c9d1d9&border_color=00e5ff&custom_title=%E2%97%A2%20RYAN%27S%20CORE%20STATS" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLucasC&layout=compact&langs_count=8&theme=tokyonight&bg_color=050b1a&title_color=00e5ff&text_color=c9d1d9&border_color=00e5ff&custom_title=%E2%97%A2%20LANGUAGE%20MATRIX" alt="top langs"/>
-
-<br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=RyanLucasC&theme=tokyonight&background=050B1A&border=00E5FF&ring=FF2BD6&fire=FF2BD6&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt_BR" alt="streak"/>
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RyanLucasC&bg_color=050b1a&color=00e5ff&line=ff2bd6&point=ffffff&area=true&area_color=00e5ff&hide_border=false&border_color=00e5ff&custom_title=%E2%97%A2%20NEURAL%20ACTIVITY%20MONITOR%20%E2%97%A3" alt="activity graph"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RyanLucasC&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&bg_color=050b1a&title_color=00e5ff&icon_color=ff2bd6&text_color=c9d1d9&border_color=00e5ff&custom_title=%E2%97%A2%20RYAN%27S%20CORE%20STATS" alt="stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=RyanLucasC&theme=tokyonight&background=050B1A&border=00E5FF&ring=FF2BD6&fire=FF2BD6&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt_BR" alt="streak"/>
 
 </div>
 
-<!-- ═════════════════════ 08 · TROFÉUS ═════════════════════ -->
-## <img src="https://img.shields.io/badge/08-ACHIEVEMENTS-ff2bd6?style=flat-square&labelColor=050b1a" height="26"/>
+<!-- ═════════════════════ 08 · CONTRIBUIÇÕES 3D ═════════════════════ -->
+## <img src="https://img.shields.io/badge/08-3D__CONTRIBUTIONS-ff2bd6?style=flat-square&labelColor=050b1a" height="26"/>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RyanLucasC&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7&row=1" width="100%" alt="trophies"/>
+<img src="https://raw.githubusercontent.com/RyanLucasC/RyanLucasC/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 
 </div>
 
