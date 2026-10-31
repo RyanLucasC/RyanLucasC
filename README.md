@@ -8,13 +8,13 @@
 <!-- ░░░ BANNER PRINCIPAL · borboleta ASCII ░░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3a0f2a,100:ff7ac6&height=110&section=header&animation=twinkling" width="100%" alt=""/>
 
-<img src="assets/hero-v2.gif" width="100%" alt="RYAN LUCAS CARDOSO — SYSTEM ONLINE — Software Engineering · Data · AI"/>
+<img src="assets/hero-v3.gif" width="100%" alt="Ryan Lucas Cardoso — Engenharia de Software, Dados e Inteligência Artificial"/>
 
 <!-- ░░░ SEQUÊNCIA DE BOOT ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1600&pause=350&color=FF7AC6&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=135&lines=%3E+booting+R.Y.A.N+core...........................+%5B+OK+%5D;%3E+mounting+%2Fdata-engineering....................+%5B+OK+%5D;%3E+linking+cloud+modules+(AWS)....................+%5B+OK+%5D;%3E+connecting+to+UEM+%E2%80%94+Maring%C3%A1%2C+PR..............+%5B+OK+%5D;%3E+access+granted.+welcome%2C+visitor_" alt="boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1600&pause=350&color=FF7AC6&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=110&lines=%3E+booting+R.Y.A.N+core...........................+%5B+OK+%5D;%3E+mounting+%2Fdata-engineering....................+%5B+OK+%5D;%3E+linking+cloud+modules+(AWS)....................+%5B+OK+%5D;%3E+connecting+to+UEM+%E2%80%94+Maring%C3%A1%2C+PR..............+%5B+OK+%5D" alt="boot sequence"/>
 
 <!-- ░░░ TYPING ANIMATION ░░░ -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2800&pause=900&color=F5ECD7&center=true&vCenter=true&width=720&lines=Software+Engineering+Student+%40+UEM;Future+Data+Engineer+%E2%9A%A1;Building+logistics+systems+%F0%9F%9A%9B;Python+%C2%B7+Cloud+%C2%B7+Artificial+Intelligence;Code.+Deploy.+Evolve." alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2800&pause=900&color=F5ECD7&center=true&vCenter=true&width=720&lines=Estudante+de+Engenharia+de+Software+%C2%B7+UEM;Engenharia+de+Dados+e+Intelig%C3%AAncia+Artificial;Sistemas+para+log%C3%ADstica+e+gest%C3%A3o+de+frota;Python+%C2%B7+Cloud+%C2%B7+AWS" alt="typing"/>
 
 <br/>
 
@@ -36,7 +36,7 @@
 ```python
 class RyanLucasCardoso:
     def __init__(self):
-        self.base      = "Maringá, PR — Brasil 🇧🇷"
+        self.base      = "Maringá, PR — Brasil"
         self.education = "Engenharia de Software @ UEM"
         self.roles     = [
             "Operações & Projetos @ MAIN Empresa Júnior",
@@ -48,17 +48,15 @@ class RyanLucasCardoso:
                           "Cloud (AWS)"]
 
     def mission(self):
-        return "Transformar operações reais em sistemas inteligentes."
+        return "Construir sistemas a partir de problemas reais de operação."
 ```
 
 </td>
 <td width="40%" valign="middle">
 
-Estudante de **Engenharia de Software na UEM**, conectando desenvolvimento, dados e IA a problemas do mundo real.
+Estudante de **Engenharia de Software na UEM**, aplicando desenvolvimento, dados e IA em problemas reais.
 
 Na **MAIN Empresa Júnior** vivo o ciclo completo de um projeto — do comercial à entrega. Na **RR Transportes** construo sistemas internos para logística de grãos, calcário e gestão de frota.
-
-⚡ Movido a **cloud**, código bem feito e café.
 
 </td>
 </tr>
@@ -109,7 +107,7 @@ Na **MAIN Empresa Júnior** vivo o ciclo completo de um projeto — do comercial
 <tr>
 <td width="50%" valign="top">
 
-<h3>🚛 ERP Logístico</h3>
+<h3>ERP Logístico</h3>
 <sub><code>RR TRANSPORTES E TERRAPLANAGEM</code></sub>
 
 <p>Sistema interno de gestão de operações de transporte: controle de custos de combustível, cálculo de fretes e logística de grãos e calcário, com regras de negócio complexas em uma interface simples.</p>
@@ -123,7 +121,7 @@ Na **MAIN Empresa Júnior** vivo o ciclo completo de um projeto — do comercial
 </td>
 <td width="50%" valign="top">
 
-<h3>💼 MAIN Empresa Júnior</h3>
+<h3>MAIN Empresa Júnior</h3>
 <sub><code>OPERAÇÕES & PROJETOS · UEM</code></sub>
 
 <p>Atuação no ciclo de vida completo de soluções para clientes reais — prospecção, escopo, execução e entrega de projetos de tecnologia.</p>
@@ -138,10 +136,10 @@ Na **MAIN Empresa Júnior** vivo o ciclo completo de um projeto — do comercial
 <tr>
 <td colspan="2" align="center" valign="top">
 
-<h3>🧠 Próximo Deploy</h3>
-<sub><code>SLOT RESERVADO</code></sub>
+<h3>Próximos projetos</h3>
+<sub><code>EM PREPARAÇÃO</code></sub>
 
-<p>Pipelines de dados, IA aplicada e cloud na AWS. Os próximos repositórios públicos vão aparecer aqui — acompanhe o perfil.</p>
+<p>Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serão listados aqui conforme forem publicados.</p>
 
 <img src="https://img.shields.io/badge/AWS-0b0610?style=flat-square&logo=amazonwebservices&logoColor=ff7ac6"/>
 <img src="https://img.shields.io/badge/Python-0b0610?style=flat-square&logo=python&logoColor=f5ecd7"/>
@@ -158,23 +156,14 @@ Na **MAIN Empresa Júnior** vivo o ciclo completo de um projeto — do comercial
 ## <img src="https://img.shields.io/badge/05-OBJETIVOS__ATUAIS-ff7ac6?style=flat-square&labelColor=0b0610" height="26"/>
 
 ```bash
-ryan@neural-core:~$ ./mission_control --list --year=2026
+$ mission_control --list --year=2026
 
-  ╔════════════════════════════════════════════════════════════╗
-  ║   ◢◤  MISSION CONTROL  ::  ROADMAP ATIVO                    ║
-  ╚════════════════════════════════════════════════════════════╝
-
-  [ RUNNING ]  🚛  Colocar o ERP logístico da RR Transportes em produção
-  [ RUNNING ]  ☁️   Certificação AWS Cloud Practitioner
-  [ RUNNING ]  🧠  Fundamentos de IA & Machine Learning
-  [ QUEUED  ]  📊  Primeiros pipelines de Engenharia de Dados
-  [ QUEUED  ]  🚀  Fortalecer a comunidade tech de cloud na UEM
-  [ QUEUED  ]  🌍  Publicar projetos open source no GitHub
-
-ryan@neural-core:~$ echo $NEXT_DIRECTIVE
->> Ready to build, analyze and deploy. 🔥
-
-ryan@neural-core:~$ █
+  [ ANDAMENTO ]  ERP logístico da RR Transportes em produção
+  [ ANDAMENTO ]  Certificação AWS Cloud Practitioner
+  [ ANDAMENTO ]  Fundamentos de IA e Machine Learning
+  [ NA FILA   ]  Primeiros pipelines de Engenharia de Dados
+  [ NA FILA   ]  Comunidade tech de cloud na UEM
+  [ NA FILA   ]  Projetos open source no GitHub
 ```
 
 <!-- ═════════════════════ 06 · CERTIFICAÇÕES ═════════════════════ -->
@@ -269,7 +258,7 @@ ryan@neural-core:~$ █
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=560&lines=%3E+Canal+aberto+para+projetos%2C+est%C3%A1gios+e+colabora%C3%A7%C3%B5es;%3E+Bora+construir+algo+incr%C3%ADvel+juntos%3F" alt="cta"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&width=560&lines=Aberto+a+projetos%2C+est%C3%A1gios+e+colabora%C3%A7%C3%B5es" alt="cta"/>
 
 </div>
 
@@ -278,8 +267,8 @@ ryan@neural-core:~$ █
 
 <div align="center">
 
-<sub>◢◤ &nbsp; SESSION ACTIVE &nbsp;·&nbsp; UEM · MARINGÁ, PR &nbsp;·&nbsp; ENGINEERING THE ARCHITECTURE OF TOMORROW &nbsp; ◥◣</sub>
+<sub>UEM &nbsp;·&nbsp; Maringá, PR &nbsp;·&nbsp; Engenharia de Software</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7ac6,50:3a0f2a,100:000000&height=130&section=footer&text=END%20OF%20TRANSMISSION&fontSize=20&fontColor=ff7ac6&fontAlignY=72&animation=twinkling" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7ac6,50:3a0f2a,100:000000&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
