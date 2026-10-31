@@ -8,9 +8,7 @@
 <!-- ░░░ BANNER PRINCIPAL · borboleta ASCII ░░░ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:3a0f2a,100:ff7ac6&height=110&section=header&animation=twinkling" width="100%" alt=""/>
 
-<img src="assets/butterfly.gif" width="300" alt="ASCII butterfly"/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=RYAN%20LUCAS%20CARDOSO&fontSize=54&fontColor=ff7ac6&fontAlignY=42&desc=%E2%97%A2%20SYSTEM%20ONLINE%20%E2%97%A3%20%20Software%20Engineering%20%C2%B7%20Data%20%C2%B7%20AI&descSize=18&descAlignY=72&descAlign=50&animation=fadeIn&stroke=f5ecd7&strokeWidth=1" width="100%" alt="Ryan Lucas Cardoso"/>
+<img src="assets/hero.gif" width="100%" alt="RYAN LUCAS CARDOSO — SYSTEM ONLINE — Software Engineering · Data · AI"/>
 
 <!-- ░░░ SEQUÊNCIA DE BOOT ░░░ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1600&pause=350&color=FF7AC6&center=true&vCenter=true&multiline=true&repeat=false&width=640&height=135&lines=%3E+booting+R.Y.A.N+core...........................+%5B+OK+%5D;%3E+mounting+%2Fdata-engineering....................+%5B+OK+%5D;%3E+linking+cloud+modules+(AWS)....................+%5B+OK+%5D;%3E+connecting+to+UEM+%E2%80%94+Maring%C3%A1%2C+PR..............+%5B+OK+%5D;%3E+access+granted.+welcome%2C+visitor_" alt="boot sequence"/>
