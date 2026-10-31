@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="28" viewBox="0 0 900 28">
+  <defs>
+    <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="20" x2="880" y1="0" y2="0">
+      <stop offset="0" stop-color="#ff7ac6" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#ff7ac6"/>
+      <stop offset="0.5" stop-color="#f5ecd7"/>
+      <stop offset="0.75" stop-color="#ff7ac6"/>
+      <stop offset="1" stop-color="#ff7ac6" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <line x1="20" y1="14" x2="880" y2="14" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-dasharray="0.1 9">
+    <animate attributeName="stroke-dashoffset" from="0" to="-18" dur="1.6s" repeatCount="indefinite"/>
+  </line>
+  <g transform="translate(450 14)">
+    <path d="M0 -9 L9 0 L0 9 L-9 0 Z" fill="#0d1117" stroke="#f5ecd7" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+    </path>
+    <circle r="2.5" fill="#ff7ac6">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
