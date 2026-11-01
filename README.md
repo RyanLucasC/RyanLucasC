@@ -113,10 +113,17 @@ Sistema de gestão de frota e operação de transporte: API em FastAPI com SQLit
 **MAIN Empresa Júnior**
 <br/><sub>COMERCIAL E PROJETOS · UEM</sub>
 
-Atuação no ciclo de vida completo de soluções para clientes reais: prospecção, escopo, execução e entrega de projetos de tecnologia.
+Atuação dupla na área Comercial e como Assistente de Projetos, cobrindo o ciclo de um serviço de tecnologia, da prospecção à entrega.
+
+- Prospecção de clientes e negociação de contratos
+- Levantamento e estruturação de requisitos
+- Planejamento e acompanhamento da execução dos projetos
 
 <img src="https://img.shields.io/badge/Gest%C3%A3o_de_projetos-161b22?style=flat-square"/>
 <img src="https://img.shields.io/badge/Comercial-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prospec%C3%A7%C3%A3o-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Negocia%C3%A7%C3%A3o-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Requisitos-161b22?style=flat-square"/>
 <br/>
 <img src="https://img.shields.io/badge/%E2%97%8F_ATIVO-ab7df8?style=flat-square&labelColor=161b22"/>
 
@@ -143,6 +150,7 @@ Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serã
 ## Objetivos 2027
 
 <table>
+<tr><td>Colocar o ERP logístico da RR Transportes em produção</td><td align="right"><img src="https://img.shields.io/badge/CONCLU%C3%8DDO-ab7df8?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Certificação AWS Cloud Practitioner</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Fundamentos de IA e Machine Learning</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Primeiros pipelines de Engenharia de Dados</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
@@ -202,8 +210,6 @@ Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serã
 
 <img height="170" src="cards/stats.svg" alt="Estatísticas do GitHub"/>
 <img height="170" src="https://streak-stats.demolab.com?user=RyanLucasC&theme=dark&background=0D1117&border=30363D&ring=AB7DF8&fire=AB7DF8&currStreakLabel=E6EDF3&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt_BR" alt="Sequência de contribuições"/>
-
-<img src="https://raw.githubusercontent.com/RyanLucasC/RyanLucasC/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Gráfico 3D de contribuições"/>
 
 </div>
 
