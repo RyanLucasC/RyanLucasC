@@ -21,7 +21,7 @@
 <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
 <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
 <a href="#objetivos-2027">Objetivos</a> &nbsp;·&nbsp;
-<a href="#certificações">Certificações</a> &nbsp;·&nbsp;
+<a href="#roadmap-de-certificações">Certificações</a> &nbsp;·&nbsp;
 <a href="#estatísticas">Estatísticas</a> &nbsp;·&nbsp;
 <a href="#contato">Contato</a>
 </p>
@@ -158,7 +158,7 @@ Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serã
 <tr><td>Projetos open source no GitHub</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
 </table>
 
-## Certificações
+## Roadmap de certificações
 
 **Certificações-alvo (AWS)**
 
@@ -208,8 +208,7 @@ Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serã
 
 <div align="center">
 
-<img height="170" src="cards/stats.svg" alt="Estatísticas do GitHub"/>
-<img height="170" src="https://streak-stats.demolab.com?user=RyanLucasC&theme=dark&background=0D1117&border=30363D&ring=AB7DF8&fire=AB7DF8&currStreakLabel=E6EDF3&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt_BR" alt="Sequência de contribuições"/>
+<img width="340" src="cards/stats.svg" alt="Estatísticas do GitHub"/>
 
 </div>
 
@@ -220,7 +219,7 @@ Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serã
 <a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="https://img.shields.io/badge/LinkedIn-ryanlucascardoso-30363d?style=for-the-badge&logo=linkedin&logoColor=c9d1d9&labelColor=161b22"/></a>
 <a href="https://github.com/RyanLucasC"><img src="https://img.shields.io/badge/GitHub-RyanLucasC-30363d?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=161b22"/></a>
 
-<sub>Aberto a projetos, estágios e colaborações.</sub>
+<sub>Aberto a projetos e colaborações.</sub>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 

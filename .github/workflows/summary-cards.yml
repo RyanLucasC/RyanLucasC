@@ -28,6 +28,7 @@ jobs:
           mkdir -p cards
           cp profile-summary-card-output/github_dark/3-stats.svg cards/stats.svg
           sed -i 's/#0366d6/#ab7df8/g; s/#77909c/#8b949e/g' cards/stats.svg
+          git rm -r -q --ignore-unmatch profile-summary-card-output
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add cards
