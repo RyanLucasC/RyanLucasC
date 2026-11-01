@@ -69,6 +69,7 @@ Na **MAIN Empresa Júnior** acompanho o ciclo completo de um projeto, do comerci
 <td>
 <img src="https://img.shields.io/badge/Data_Engineering-161b22?style=flat-square&logo=apacheairflow&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-161b22?style=flat-square&logo=openai&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/Integra%C3%A7%C3%A3o_com_IA-161b22?style=flat-square"/>
