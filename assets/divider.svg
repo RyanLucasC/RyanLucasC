@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="28" viewBox="0 0 900 28">
   <defs>
     <linearGradient id="g" gradientUnits="userSpaceOnUse" x1="20" x2="880" y1="0" y2="0">
-      <stop offset="0" stop-color="#b48cff" stop-opacity="0"/>
-      <stop offset="0.25" stop-color="#b48cff"/>
+      <stop offset="0" stop-color="#ab7df8" stop-opacity="0"/>
+      <stop offset="0.25" stop-color="#ab7df8"/>
       <stop offset="0.5" stop-color="#e6dcff"/>
-      <stop offset="0.75" stop-color="#b48cff"/>
-      <stop offset="1" stop-color="#b48cff" stop-opacity="0"/>
+      <stop offset="0.75" stop-color="#ab7df8"/>
+      <stop offset="1" stop-color="#ab7df8" stop-opacity="0"/>
     </linearGradient>
   </defs>
   <line x1="20" y1="14" x2="880" y2="14" stroke="url(#g)" stroke-width="3" stroke-linecap="round" stroke-dasharray="0.1 9">
@@ -15,7 +15,7 @@
     <path d="M0 -9 L9 0 L0 9 L-9 0 Z" fill="#0d1117" stroke="#e6dcff" stroke-width="1.5">
       <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
     </path>
-    <circle r="2.5" fill="#b48cff">
+    <circle r="2.5" fill="#ab7df8">
       <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
     </circle>
   </g>
