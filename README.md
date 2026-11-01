@@ -270,9 +270,7 @@ Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serã
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RyanLucasC&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark&bg_color=0d1117&title_color=e6edf3&icon_color=ab7df8&text_color=c9d1d9&border_color=30363d&custom_title=Estat%C3%ADsticas" alt="Estatísticas do GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanLucasC&layout=compact&langs_count=6&theme=dark&bg_color=0d1117&title_color=e6edf3&text_color=c9d1d9&border_color=30363d&custom_title=Linguagens" alt="Linguagens mais usadas"/>
-
+<img height="170" src="cards/stats.svg" alt="Estatísticas do GitHub"/>
 <img height="170" src="https://streak-stats.demolab.com?user=RyanLucasC&theme=dark&background=0D1117&border=30363D&ring=AB7DF8&fire=AB7DF8&currStreakLabel=E6EDF3&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&locale=pt_BR" alt="Sequência de contribuições"/>
 
 <img src="https://raw.githubusercontent.com/RyanLucasC/RyanLucasC/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Gráfico 3D de contribuições"/>
