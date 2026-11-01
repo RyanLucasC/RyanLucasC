@@ -1,0 +1,32 @@
+# Gera os cartões de estatísticas (resumo, linguagens, commits) como SVG dentro do próprio repositório,
+# sem depender de serviços externos. Saída: pasta profile-summary-card-output/
+
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # todo dia às 15h (horário de Brasília)
+  workflow_dispatch:        # permite rodar manualmente
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v5
+      - uses: vn7n24fzkq/github-profile-summary-cards@release/v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated profile summary cards"; then
+            git push
+          fi
