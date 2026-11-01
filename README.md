@@ -32,7 +32,7 @@
 
 ## Sobre
 
-Estudante de **Engenharia de Software na UEM**, com foco em **Engenharia de Dados**. Trabalho com Python, bancos de dados, dashboards web e integração com IA, e configuro servidores Linux (VPS) para colocar os sistemas em produção.
+Estudante de **Engenharia de Software na UEM**, com foco em **Engenharia de Dados**. Trabalho com Python, bancos de dados, dashboards web e integração com IA, e já configurei um servidor Linux (VPS), com HTTPS automático (Caddy) e serviços no systemd, para rodar a API do ERP.
 
 Na **MAIN Empresa Júnior** acompanho o ciclo completo de um projeto, do comercial à entrega. Na **RR Transportes e Terraplanagem** desenvolvo sistemas internos para logística de grãos e calcário e gestão de frota. Meu objetivo é construir sistemas a partir de problemas reais de operação.
 
@@ -57,10 +57,21 @@ Na **MAIN Empresa Júnior** acompanho o ciclo completo de um projeto, do comerci
 </td>
 </tr>
 <tr>
+<td><sub><b>BACKEND</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/SQLAlchemy-161b22?style=flat-square&logo=sqlalchemy&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Alembic-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/pytest-161b22?style=flat-square&logo=pytest&logoColor=c9d1d9"/>
+</td>
+</tr>
+<tr>
 <td><sub><b>WEB</b></sub></td>
 <td>
 <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/PWA-161b22?style=flat-square"/>
 <img src="https://img.shields.io/badge/Dashboards_web-161b22?style=flat-square"/>
 </td>
 </tr>
@@ -80,6 +91,9 @@ Na **MAIN Empresa Júnior** acompanho o ciclo completo de um projeto, do comerci
 <td>
 <img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/Linux_VPS-161b22?style=flat-square&logo=linux&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Caddy-161b22?style=flat-square&logo=caddy&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/systemd-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/Windows-161b22?style=flat-square"/>
 </td>
 </tr>
@@ -104,12 +118,20 @@ Na **MAIN Empresa Júnior** acompanho o ciclo completo de um projeto, do comerci
 **ERP Logístico**
 <br/><sub>RR TRANSPORTES E TERRAPLANAGEM</sub>
 
-Sistema interno de gestão de operações de transporte: controle de custos de combustível, cálculo de fretes e logística de grãos e calcário, com regras de negócio complexas em uma interface simples.
+Sistema de gestão de frota e operação de transporte: API em FastAPI com SQLite e migrações, painel web para o gestor e app PWA para o motorista, que funciona sem sinal.
+
+- Viagens com DRE, comissões e custos de combustível e manutenção
+- Frete comparado ao piso mínimo da ANTT, com tabelas versionadas
+- Alertas de vencimento e de manutenção por km, com notificações push
+- Auditoria de alterações, backup diário cifrado e teste semanal de restauração
+- Testes automatizados (pytest e Playwright) e CI no GitHub Actions
+- Deploy em VPS Linux com Caddy (HTTPS) e systemd
 
 <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Gest%C3%A3o_de_frota-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9"/>
 <br/>
 <img src="https://img.shields.io/badge/%E2%97%8F_EM_DESENVOLVIMENTO-ab7df8?style=flat-square&labelColor=161b22"/>
 
