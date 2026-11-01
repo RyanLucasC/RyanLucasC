@@ -20,7 +20,7 @@
 <a href="#sobre">Sobre</a> &nbsp;·&nbsp;
 <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
 <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
-<a href="#objetivos-2026">Objetivos</a> &nbsp;·&nbsp;
+<a href="#objetivos-2027">Objetivos</a> &nbsp;·&nbsp;
 <a href="#certificações">Certificações</a> &nbsp;·&nbsp;
 <a href="#estatísticas">Estatísticas</a> &nbsp;·&nbsp;
 <a href="#contato">Contato</a>
@@ -32,78 +32,50 @@
 
 ## Sobre
 
-Estudante de **Engenharia de Software na UEM**, com foco em **Engenharia de Dados**. Trabalho com Python, bancos de dados, dashboards web e integração com IA, e já configurei um servidor Linux (VPS), com HTTPS automático (Caddy) e serviços no systemd, para colocar o ERP no ar.
+Graduando em **Engenharia de Software na UEM**, com foco no desenvolvimento de soluções de software e na análise de dados. Uno a visão técnica da tecnologia à aplicação prática em negócios e gestão de projetos.
 
-Na **MAIN Empresa Júnior** acompanho o ciclo completo de um projeto, do comercial à entrega. Na **RR Transportes e Terraplanagem** desenvolvo sistemas internos para logística de grãos e calcário e gestão de frota. Meu objetivo é construir sistemas a partir de problemas reais de operação.
+Na **MAIN Empresa Júnior**, atuo na área Comercial e como Assistente de Projetos, cobrindo o ciclo de um serviço de tecnologia: da prospecção e negociação de contratos ao levantamento de requisitos e ao acompanhamento da entrega.
 
-<table>
-<tr><td width="150"><sub><b>FORMAÇÃO</b></sub></td><td>Engenharia de Software · Universidade Estadual de Maringá (UEM)</td></tr>
-<tr><td><sub><b>FOCO</b></sub></td><td>Engenharia de Dados · Inteligência Artificial · Arquitetura de Software · Cloud (AWS)</td></tr>
-<tr><td><sub><b>ATUAÇÃO</b></sub></td><td>Comercial e Projetos, MAIN Empresa Júnior<br/>Operações e Sistemas, RR Transportes e Terraplanagem</td></tr>
-<tr><td><sub><b>BASE</b></sub></td><td>Maringá, PR — Brasil</td></tr>
-</table>
+Na **RR Transportes e Terraplanagem**, aplico design de software e arquitetura web em sistemas internos e dashboards de gestão para fretes, abastecimento e custos operacionais.
+
+Busco desafios que exijam pensamento analítico e conectem tecnologia a resultados reais.
 
 ## Tech Stack
 
 <table>
 <tr>
-<td width="150"><sub><b>LINGUAGENS</b></sub></td>
+<td width="170"><sub><b>LINGUAGENS</b></sub></td>
 <td>
 <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/HTML-161b22?style=flat-square&logo=html5&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/HTML_%2F_CSS-161b22?style=flat-square&logo=html5&logoColor=c9d1d9"/>
 </td>
 </tr>
 <tr>
-<td><sub><b>BACKEND</b></sub></td>
+<td width="170"><sub><b>DADOS E BACKEND</b></sub></td>
 <td>
 <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/SQLAlchemy-161b22?style=flat-square&logo=sqlalchemy&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Alembic-161b22?style=flat-square"/>
-<img src="https://img.shields.io/badge/pytest-161b22?style=flat-square&logo=pytest&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Data_Engineering-161b22?style=flat-square&logo=apacheairflow&logoColor=c9d1d9"/>
 </td>
 </tr>
 <tr>
-<td><sub><b>WEB</b></sub></td>
+<td width="170"><sub><b>WEB E DESIGN</b></sub></td>
 <td>
 <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/PWA-161b22?style=flat-square"/>
-<img src="https://img.shields.io/badge/Dashboards_web-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=c9d1d9"/>
 </td>
 </tr>
 <tr>
-<td><sub><b>DADOS E IA</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/Data_Engineering-161b22?style=flat-square&logo=apacheairflow&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/SQL-161b22?style=flat-square"/>
-<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Intelig%C3%AAncia_Artificial-161b22?style=flat-square&logo=openai&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Integra%C3%A7%C3%A3o_com_IA-161b22?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td><sub><b>CLOUD E INFRA</b></sub></td>
+<td width="170"><sub><b>CLOUD E FERRAMENTAS</b></sub></td>
 <td>
 <img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Linux_VPS-161b22?style=flat-square&logo=linux&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Caddy-161b22?style=flat-square&logo=caddy&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/systemd-161b22?style=flat-square"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Windows-161b22?style=flat-square"/>
-</td>
-</tr>
-<tr>
-<td><sub><b>FERRAMENTAS</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/VS_Code-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/Claude_AI-161b22?style=flat-square&logo=anthropic&logoColor=c9d1d9"/>
 </td>
 </tr>
@@ -168,10 +140,9 @@ Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serã
 </tr>
 </table>
 
-## Objetivos 2026
+## Objetivos 2027
 
 <table>
-<tr><td>Colocar o ERP logístico da RR Transportes em produção</td><td align="right"><img src="https://img.shields.io/badge/CONCLU%C3%8DDO-ab7df8?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Certificação AWS Cloud Practitioner</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Fundamentos de IA e Machine Learning</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Primeiros pipelines de Engenharia de Dados</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
@@ -181,87 +152,46 @@ Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serã
 
 ## Certificações
 
-<!-- Atualize o número conforme for concluindo: troque 0 pelo total de itens concluídos -->
-<img src="https://img.shields.io/badge/PROGRESSO-0_%2F_20_conclu%C3%ADdas-ab7df8?style=flat-square&labelColor=161b22&logo=credly&logoColor=ab7df8"/>
-
 **Certificações-alvo (AWS)**
 
 <table>
-<tr>
-<td valign="top"><a href="https://aws.amazon.com/certification/certified-cloud-practitioner/"><b>AWS Certified Cloud Practitioner</b></a></td>
-<td valign="top"><a href="https://www.udemy.com/course/aws-certified-cloud-practitioner-new/">Curso de preparação (Udemy)</a></td>
-<td align="right" valign="top"><img src="https://img.shields.io/badge/%E2%97%8F_EM_ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td>
-</tr>
-<tr>
-<td valign="top"><a href="https://aws.amazon.com/certification/certified-ai-practitioner/"><b>AWS Certified AI Practitioner</b></a></td>
-<td valign="top"><a href="https://www.udemy.com/course/aws-ai-practitioner-certified/">Curso de preparação (Udemy)</a></td>
-<td align="right" valign="top"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td>
-</tr>
-<tr>
-<td valign="top"><a href="https://aws.amazon.com/certification/certified-data-engineer-associate/"><b>AWS Certified Data Engineer – Associate</b></a></td>
-<td valign="top"><a href="https://www.udemy.com/course/aws-data-engineer/">Curso de preparação (Udemy)</a></td>
-<td align="right" valign="top"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td>
-</tr>
-<tr>
-<td valign="top"><a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/"><b>AWS Certified Solutions Architect – Associate</b></a></td>
-<td valign="top"><a href="https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/">Curso de preparação (Udemy)</a></td>
-<td align="right" valign="top"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td>
-</tr>
+<tr><td><b>AWS Certified Cloud Practitioner</b></td><td align="right"><img src="https://img.shields.io/badge/%E2%97%8F_EM_ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
+<tr><td><b>AWS Certified AI Practitioner</b></td><td align="right"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td></tr>
+<tr><td><b>AWS Certified Data Engineer – Associate</b></td><td align="right"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td></tr>
+<tr><td><b>AWS Certified Solutions Architect – Associate</b></td><td align="right"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td></tr>
 </table>
 
 **Trilha de estudos**
 
 <table>
 <tr>
-<td width="200" valign="top"><b>Fase 01</b><br/><sub>Linux, Cloud e IA</sub></td>
-<td valign="top">
-<a href="https://training.linuxfoundation.org/training/introduction-to-linux/">LFS101 Linux</a><br/>
-<a href="https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials/8D79F3AVR7">AWS Cloud Practitioner Essentials</a> <sub><a href="https://skillbuilder.aws/learn/94T2BEN85A/aws-cloud-practitioner-essentials-portugus/V1ZR7QAGKS">PT</a></sub><br/>
-<a href="https://skillbuilder.aws/learning-plan/EKHCUEWUUC/aws-simulearn-cloud-practitioner/1UQVR262ZB">SimuLearn Cloud Practitioner</a> <sub><a href="https://skillbuilder.aws/learning-plan/EKHCUEWUUC/aws-simulearn-cloud-practitioner-portugus/PBE49S31TS">PT</a></sub><br/>
-<a href="https://academy.claude.com/courses">Claude Academy</a>
-</td>
+<td width="170" valign="top"><b>Fase 01</b><br/><sub>Linux, Cloud e IA</sub></td>
+<td valign="top">LFS101 Linux · AWS Cloud Practitioner Essentials · SimuLearn Cloud Practitioner · Claude Academy</td>
 <td align="right" valign="top"><img src="https://img.shields.io/badge/%E2%97%8F_EM_ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td>
 </tr>
 <tr>
-<td width="200" valign="top"><b>Fase 02</b><br/><sub>Fundamentos AWS</sub></td>
-<td valign="top">
-<a href="https://skillbuilder.aws/learn/63URRERNTS/cloud-essentials-knowledge-badge-assessment/VYB4663QV9">Cloud Essentials Knowledge Badge</a>
-</td>
+<td width="170" valign="top"><b>Fase 02</b><br/><sub>Fundamentos AWS</sub></td>
+<td valign="top">Cloud Essentials Knowledge Badge</td>
 <td align="right" valign="top"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td>
 </tr>
 <tr>
-<td width="200" valign="top"><b>Fase 03</b><br/><sub>Dados</sub></td>
-<td valign="top">
-<a href="https://www.databricks.com/resources/learn/training/databricks-fundamentals">Databricks Fundamentals</a><br/>
-<a href="https://learn.getdbt.com">dbt Fundamentals</a><br/>
-<a href="https://www.netacad.com/courses/data-analytics-essentials?courseLang=en-US">Cisco Data Analytics Essentials</a>
-</td>
+<td width="170" valign="top"><b>Fase 03</b><br/><sub>Dados</sub></td>
+<td valign="top">Databricks Fundamentals · dbt Fundamentals · Cisco Data Analytics Essentials</td>
 <td align="right" valign="top"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td>
 </tr>
 <tr>
-<td width="200" valign="top"><b>Fase 04</b><br/><sub>Inteligência Artificial</sub></td>
-<td valign="top">
-<a href="https://skillbuilder.aws/learning-plan/3HCD821CNZ/aws-simulearn-ai-practitioner/BFKGA5VM8H">SimuLearn AI Practitioner</a><br/>
-<a href="https://www.databricks.com/resources/learn/training/generative-ai-fundamentals">Databricks Generative AI</a><br/>
-<a href="https://www.databricks.com/resources/training/level-your-ai-agent-skills">Databricks AI Agent</a>
-</td>
+<td width="170" valign="top"><b>Fase 04</b><br/><sub>Inteligência Artificial</sub></td>
+<td valign="top">SimuLearn AI Practitioner · Databricks Generative AI · Databricks AI Agent</td>
 <td align="right" valign="top"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td>
 </tr>
 <tr>
-<td width="200" valign="top"><b>Fase 05</b><br/><sub>DevOps e Segurança</sub></td>
-<td valign="top">
-<a href="https://training.linuxfoundation.org/training/introduction-to-kubernetes/">LFS158 Kubernetes</a><br/>
-<a href="https://training.linuxfoundation.org/training/introduction-to-devops-and-site-reliability-engineering-lfs162/">LFS162 DevOps e SRE</a><br/>
-<a href="https://www.netacad.com/courses/introduction-to-cybersecurity?courseLang=en-US">Cisco Cybersecurity</a>
-</td>
+<td width="170" valign="top"><b>Fase 05</b><br/><sub>DevOps e Segurança</sub></td>
+<td valign="top">LFS158 Kubernetes · LFS162 DevOps e SRE · Cisco Cybersecurity</td>
 <td align="right" valign="top"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td>
 </tr>
 <tr>
-<td width="200" valign="top"><b>Fase 06</b><br/><sub>Treino AWS</sub></td>
-<td valign="top">
-<a href="https://skillbuilder.aws/learn/FU5WCYVGKY/aws-cloud-quest-cloud-practitioner/JF9TKU68GT">Cloud Quest Cloud Practitioner</a><br/>
-<a href="https://skillbuilder.aws/learn/5YB3FCEE1H/aws-cloud-quest-generative-ai-practitioner/26A81MG83V">Cloud Quest Gen AI Practitioner</a>
-</td>
+<td width="170" valign="top"><b>Fase 06</b><br/><sub>Treino AWS</sub></td>
+<td valign="top">Cloud Quest Cloud Practitioner · Cloud Quest Gen AI Practitioner</td>
 <td align="right" valign="top"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td>
 </tr>
 </table>
