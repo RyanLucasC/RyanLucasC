@@ -219,7 +219,7 @@ Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serã
 <a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="https://img.shields.io/badge/LinkedIn-ryanlucascardoso-30363d?style=for-the-badge&logo=linkedin&logoColor=c9d1d9&labelColor=161b22"/></a>
 <a href="https://github.com/RyanLucasC"><img src="https://img.shields.io/badge/GitHub-RyanLucasC-30363d?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=161b22"/></a>
 
-<sub>Aberto a projetos e colaborações.</sub>
+<sub>Aberto a projetos, estágios e colaborações.</sub>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
