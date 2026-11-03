@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/FOCO-Engenharia_de_Dados-ab7df8?style=flat-square&labelColor=161b22"/>
 <img src="https://img.shields.io/badge/BASE-Maring%C3%A1%2C_PR-30363d?style=flat-square&labelColor=161b22&logo=googlemaps&logoColor=c9d1d9"/>
 <a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="https://img.shields.io/badge/LinkedIn-ryanlucascardoso-30363d?style=flat-square&labelColor=161b22&logo=linkedin&logoColor=c9d1d9"/></a>
+<a href="https://ryanlucascardoso.pages.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ryanlucascardoso.pages.dev-ab7df8?style=flat-square&labelColor=161b22&logo=cloudflare&logoColor=c9d1d9" alt="Portfólio"/></a>
 </p>
 
 <p>
@@ -218,6 +219,7 @@ Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serã
 
 <div align="center">
 
+<a href="https://ryanlucascardoso.pages.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ryanlucascardoso.pages.dev-ab7df8?style=for-the-badge&labelColor=161b22&logo=cloudflare&logoColor=c9d1d9" alt="Portfólio"/></a>
 <a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="https://img.shields.io/badge/LinkedIn-ryanlucascardoso-30363d?style=for-the-badge&logo=linkedin&logoColor=c9d1d9&labelColor=161b22"/></a>
 <a href="https://github.com/RyanLucasC"><img src="https://img.shields.io/badge/GitHub-RyanLucasC-30363d?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=161b22"/></a>
 
