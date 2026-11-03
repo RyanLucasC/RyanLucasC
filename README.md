@@ -92,16 +92,18 @@ Busco desafios que exijam pensamento analítico e conectem tecnologia a resultad
 
 Sistema de gestão de frota e operação de transporte: API em FastAPI com SQLite e migrações, painel web para o gestor e app PWA para o motorista, que funciona sem sinal.
 
-- Viagens com DRE, comissões e custos de combustível e manutenção
-- Frete comparado ao piso mínimo da ANTT, com tabelas versionadas
+- Viagens com conferência do gestor, DRE, comissões e custos de combustível, manutenção e gastos avulsos com foto de recibo
+- Frete comparado ao piso mínimo da ANTT, com tabelas versionadas e atualizadas pela calculadora oficial
 - Alertas de vencimento e de manutenção por km, com notificações push
 - Auditoria de alterações, backup diário cifrado e teste semanal de restauração
-- Testes automatizados (pytest e Playwright) e CI no GitHub Actions
+- Segurança: senhas com scrypt, sessões revogáveis, bloqueio por tentativas e CSP restritiva
+- Testes automatizados (pytest e Playwright) e CI no GitHub Actions, com verificação de dependências
 - Em produção em VPS Linux, com Caddy (HTTPS) e systemd
 
 <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Alembic-161b22?style=flat-square"/>
 <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9"/>
 <br/>
