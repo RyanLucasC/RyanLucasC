@@ -8,7 +8,7 @@
 
 <img src="assets/hero-v7.gif" width="100%" alt="Ryan Lucas Cardoso — Engenharia de Software, Dados e Inteligência Artificial"/>
 
-<p>Estudante de Engenharia de Software na UEM, construindo carreira em <b>Engenharia de Dados</b>.</p>
+<p>Estudante de Engenharia de Software na UEM, construindo carreira em <b>Engenharia de Dados</b> e cloud.<br/>Em busca de estágio na área.</p>
 
 <p>
 <img src="https://img.shields.io/badge/FOCO-Engenharia_de_Dados-ab7df8?style=flat-square&labelColor=161b22"/>
@@ -23,7 +23,6 @@
 <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
 <a href="#objetivos-2027">Objetivos</a> &nbsp;·&nbsp;
 <a href="#roadmap-de-certificações">Certificações</a> &nbsp;·&nbsp;
-<a href="#estatísticas">Estatísticas</a> &nbsp;·&nbsp;
 <a href="#contato">Contato</a>
 </p>
 
@@ -33,13 +32,13 @@
 
 ## Sobre
 
-Graduando em **Engenharia de Software na UEM**, com foco no desenvolvimento de soluções de software e na análise de dados. Uno a visão técnica da tecnologia à aplicação prática em negócios e gestão de projetos.
+Graduando em **Engenharia de Software na UEM**, com foco em dados e computação em nuvem. Uno a visão técnica da tecnologia à aplicação prática em negócios e gestão de projetos.
 
-Na **MAIN Empresa Júnior**, atuo na área Comercial e como Assistente de Projetos, cobrindo o ciclo de um serviço de tecnologia: da prospecção e negociação de contratos ao levantamento de requisitos e ao acompanhamento da entrega.
+Na **Main - Soluções em Software**, empresa júnior da UEM, atuo na área Comercial e como Assistente de Projetos, cobrindo o ciclo de um serviço de tecnologia: da prospecção e negociação de contratos ao levantamento de requisitos e ao acompanhamento da entrega.
 
 Na **RR Transportes e Terraplanagem**, aplico design de software e arquitetura web em sistemas internos e dashboards de gestão para fretes, abastecimento e custos operacionais.
 
-Busco desafios que exijam pensamento analítico e conectem tecnologia a resultados reais.
+Busco desafios que exijam pensamento analítico e conectem tecnologia a resultados reais, com o objetivo de me tornar engenheiro de dados.
 
 ## Tech Stack
 
@@ -59,7 +58,7 @@ Busco desafios que exijam pensamento analítico e conectem tecnologia a resultad
 <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Data_Engineering-161b22?style=flat-square&logo=apacheairflow&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Data_Engineering-161b22?style=flat-square"/>
 </td>
 </tr>
 <tr>
@@ -113,38 +112,26 @@ Sistema de gestão de frota e operação de transporte: API em FastAPI com SQLit
 </td>
 <td width="50%" valign="top">
 
-**MAIN Empresa Júnior**
-<br/><sub>COMERCIAL E PROJETOS · UEM</sub>
+**Este portfólio**
+<br/><sub>RESUME AS CODE</sub>
 
-Atuação dupla na área Comercial e como Assistente de Projetos, cobrindo o ciclo de um serviço de tecnologia, da prospecção à entrega.
+Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dados por idioma. Atualizar o portfólio é editar esse arquivo: o build valida o conteúdo e gera todo o resto.
 
-- Prospecção de clientes e negociação de contratos
-- Levantamento e estruturação de requisitos
-- Planejamento e acompanhamento da execução dos projetos
+- Validação no build: telefone, endereço, HTML, credenciais e links sem HTTPS impedem a publicação
+- Currículo em PDF no estilo LaTeX, gerado automaticamente, com prévia sempre atualizada no site
+- Nuvens em ASCII geradas por código: volumes 3D iluminados, com cor por caractere
+- Sem JavaScript no site, com CSP rígida, cabeçalhos de segurança e foto sem metadados
+- Nota 100 no Lighthouse em desempenho, acessibilidade, boas práticas e SEO
 
-<img src="https://img.shields.io/badge/Gest%C3%A3o_de_projetos-161b22?style=flat-square"/>
-<img src="https://img.shields.io/badge/Comercial-161b22?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prospec%C3%A7%C3%A3o-161b22?style=flat-square"/>
-<img src="https://img.shields.io/badge/Negocia%C3%A7%C3%A3o-161b22?style=flat-square"/>
-<img src="https://img.shields.io/badge/Requisitos-161b22?style=flat-square"/>
+[Ver o site](https://ryanlucascardoso.pages.dev) &nbsp;·&nbsp; [Ver o código](https://github.com/RyanLucasC/ryanlucas-portfolio)
+
+<img src="https://img.shields.io/badge/Astro-161b22?style=flat-square&logo=astro&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Cloudflare_Pages-161b22?style=flat-square&logo=cloudflarepages&logoColor=c9d1d9"/>
 <br/>
 <img src="https://img.shields.io/badge/%E2%97%8F_ATIVO-ab7df8?style=flat-square&labelColor=161b22"/>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**Próximos projetos**
-<br/><sub>EM PREPARAÇÃO</sub>
-
-Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serão listados aqui conforme forem publicados.
-
-<img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/HTML_%C2%B7_CSS_%C2%B7_JS-161b22?style=flat-square&logo=javascript&logoColor=c9d1d9"/>
-<br/>
-<img src="https://img.shields.io/badge/%E2%97%8B_EM_BREVE-8b949e?style=flat-square&labelColor=161b22"/>
 
 </td>
 </tr>
@@ -159,6 +146,7 @@ Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serã
 <tr><td>Primeiros pipelines de Engenharia de Dados</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Comunidade tech de cloud na UEM</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Projetos open source no GitHub</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
+<tr><td>PIBIC</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
 </table>
 
 ## Roadmap de certificações
@@ -206,14 +194,6 @@ Pipelines de dados, IA aplicada e cloud na AWS. Os repositórios públicos serã
 <td align="right" valign="top"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td>
 </tr>
 </table>
-
-## Estatísticas
-
-<div align="center">
-
-<img width="340" src="cards/stats.svg" alt="Estatísticas do GitHub"/>
-
-</div>
 
 ## Contato
 
