@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="assets/hero-v8.gif" width="100%" alt="Ryan Lucas Cardoso — Engenharia de Software, Dados e Inteligência Artificial"/>
+<img src="assets/hero-v9.gif" width="100%" alt="Ryan Lucas Cardoso — Engenharia de Software, Dados e Inteligência Artificial"/>
 
 <p>Estudante de Engenharia de Software na UEM, construindo carreira em <b>Engenharia de Dados</b> e cloud.<br/>Em busca de estágio na área.</p>
 
