@@ -112,7 +112,7 @@ Sistema de gestão de frota e operação de transporte: API em FastAPI com SQLit
 </td>
 <td width="50%" valign="top">
 
-**Este portfólio**
+**Portfólio**
 <br/><sub>RESUME AS CODE</sub>
 
 Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dados por idioma. Atualizar o portfólio é editar esse arquivo: o build valida o conteúdo e gera todo o resto.
