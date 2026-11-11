@@ -95,10 +95,10 @@ Sistema de gestão de frota e operação de transporte: API em FastAPI com SQLit
 - Viagens com conferência do gestor, DRE, comissões e custos de combustível, manutenção e gastos avulsos com foto de recibo
 - Frete comparado ao piso mínimo da ANTT, com tabelas versionadas e atualizadas pela calculadora oficial
 - Alertas de vencimento e de manutenção por km, com notificações push
-- Auditoria de alterações, backup diário cifrado e teste semanal de restauração
+- Auditoria de alterações, backup diário e teste semanal de restauração
 - Segurança: senhas com scrypt, sessões revogáveis, bloqueio por tentativas e CSP restritiva
 - Testes automatizados (pytest e Playwright) e CI no GitHub Actions, com verificação de dependências
-- Em produção em VPS Linux, com Caddy (HTTPS) e systemd
+- Em produção em VPS Linux, com nginx, HTTPS (Let's Encrypt) e serviços isolados pelo systemd
 
 <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9"/>
 <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=c9d1d9"/>
