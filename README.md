@@ -23,7 +23,7 @@ Estudante de Engenharia de Software na UEM, com foco em **Engenharia de Dados**,
 - **RR Transportes e Terraplanagem** · atuo em operações; desenvolvi o ERP de gestão de frota que a empresa usa hoje
 - **Main - Soluções em Software** · estágio na Área Comercial e como Assistente de Projetos
 - **PIBIC na UEM** · pesquisa com Teoria de Resposta ao Item (TRI) e IA
-- **Cloud Native Maringá (CNCF)** · co-organizador; a partir de 2027, levo os encontros da comunidade para a UEM
+- **Cloud Native Maringá (CNCF)** · co-organizador, para trazer eventos de cloud à UEM a partir de 2027
 - **AWS Certified Cloud Practitioner** · em preparação
 
 ## Projetos
