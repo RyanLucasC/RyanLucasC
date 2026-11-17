@@ -37,7 +37,7 @@ Graduando em **Engenharia de Software na UEM**, com foco em dados e computação
 
 Na **Main - Soluções em Software**, empresa júnior da UEM, atuo na área Comercial e como Assistente de Projetos, cobrindo o ciclo de um serviço de tecnologia: da prospecção e negociação de contratos ao levantamento de requisitos e ao acompanhamento da entrega.
 
-Sou **co-organizador do Cloud Native Maringá**, capítulo local da comunidade CNCF, e o representante do capítulo na UEM: sou responsável por levar para a universidade os encontros sobre cloud native, containers e infraestrutura, que até então não aconteciam lá.
+Sou **co-organizador do Cloud Native Maringá**, capítulo local da comunidade CNCF, e trouxe os eventos da comunidade para a UEM.
 
 Na **RR Transportes e Terraplanagem**, aplico design de software e arquitetura web em sistemas internos e dashboards de gestão para fretes, abastecimento e custos operacionais.
 
@@ -147,7 +147,7 @@ Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dado
 <tr><td>Certificação AWS Cloud Practitioner</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Fundamentos de IA e Machine Learning</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Primeiros pipelines de Engenharia de Dados</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
-<tr><td>Co-organizar o Cloud Native Maringá (CNCF) e levar os eventos para a UEM</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
+<tr><td>Trazer uma comunidade de cloud para a UEM (Cloud Native Maringá)</td><td align="right"><img src="https://img.shields.io/badge/CONCLU%C3%8DDO-ab7df8?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Projetos open source no GitHub</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>PIBIC em Teoria de Resposta ao Item (TRI) e IA</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
 </table>
