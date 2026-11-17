@@ -16,10 +16,11 @@
 
 </div>
 
-Estudante de Engenharia de Software na UEM, com foco em **Engenharia de Dados**, cloud e IA. Desenvolvi e coloquei em produção o ERP de frota de uma transportadora, do levantamento de requisitos ao servidor.
+Estudante de Engenharia de Software na UEM, com foco em **Engenharia de Dados**, cloud e IA.
 
 ## Agora
 
+- **RR Transportes e Terraplanagem** · atuo em operações; desenvolvi o ERP de gestão de frota que a empresa usa hoje
 - **Main - Soluções em Software** · estágio na Área Comercial e como Assistente de Projetos
 - **PIBIC na UEM** · pesquisa com Teoria de Resposta ao Item (TRI) e IA
 - **Cloud Native Maringá (CNCF)** · co-organizador; trouxe os eventos da comunidade para a UEM
