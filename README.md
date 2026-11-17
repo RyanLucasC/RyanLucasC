@@ -38,7 +38,7 @@ Estudante de Engenharia de Software na UEM, com foco em **Engenharia de Dados**,
 
 ## Stack
 
-`Python` `SQL` `JavaScript` `FastAPI` `SQLite` `Linux` `Git` `nginx` `GitHub Actions` `Astro` `Tailwind CSS`
+`Python` `SQL` `JavaScript` `FastAPI` `SQLite` `Linux` `Git` `nginx` `GitHub Actions` `Astro` `Tailwind CSS` `Figma` `Claude`
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
