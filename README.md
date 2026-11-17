@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/FOCO-Engenharia_de_Dados-ab7df8?style=flat-square&labelColor=161b22"/>
 <img src="https://img.shields.io/badge/BASE-Maring%C3%A1%2C_PR-30363d?style=flat-square&labelColor=161b22&logo=googlemaps&logoColor=c9d1d9"/>
 <a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="https://img.shields.io/badge/LinkedIn-ryanlucascardoso-30363d?style=flat-square&labelColor=161b22&logo=linkedin&logoColor=c9d1d9"/></a>
+<a href="https://www.instagram.com/ryanlucas.dev/"><img src="https://img.shields.io/badge/Instagram-ryanlucas.dev-30363d?style=flat-square&labelColor=161b22&logo=instagram&logoColor=c9d1d9" alt="Instagram"/></a>
 <a href="https://ryanlucascardoso.pages.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ryanlucascardoso.pages.dev-ab7df8?style=flat-square&labelColor=161b22&logo=cloudflare&logoColor=c9d1d9" alt="Portfólio"/></a>
 </p>
 
@@ -35,6 +36,8 @@
 Graduando em **Engenharia de Software na UEM**, com foco em dados e computação em nuvem. Uno a visão técnica da tecnologia à aplicação prática em negócios e gestão de projetos.
 
 Na **Main - Soluções em Software**, empresa júnior da UEM, atuo na área Comercial e como Assistente de Projetos, cobrindo o ciclo de um serviço de tecnologia: da prospecção e negociação de contratos ao levantamento de requisitos e ao acompanhamento da entrega.
+
+Sou **co-organizador do Cloud Native Maringá**, capítulo local da comunidade CNCF, ajudando a organizar encontros sobre cloud native, containers e infraestrutura na região.
 
 Na **RR Transportes e Terraplanagem**, aplico design de software e arquitetura web em sistemas internos e dashboards de gestão para fretes, abastecimento e custos operacionais.
 
@@ -201,6 +204,7 @@ Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dado
 
 <a href="https://ryanlucascardoso.pages.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ryanlucascardoso.pages.dev-ab7df8?style=for-the-badge&labelColor=161b22&logo=cloudflare&logoColor=c9d1d9" alt="Portfólio"/></a>
 <a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="https://img.shields.io/badge/LinkedIn-ryanlucascardoso-30363d?style=for-the-badge&logo=linkedin&logoColor=c9d1d9&labelColor=161b22"/></a>
+<a href="https://www.instagram.com/ryanlucas.dev/"><img src="https://img.shields.io/badge/Instagram-ryanlucas.dev-30363d?style=for-the-badge&logo=instagram&logoColor=c9d1d9&labelColor=161b22" alt="Instagram"/></a>
 <a href="https://github.com/RyanLucasC"><img src="https://img.shields.io/badge/GitHub-RyanLucasC-30363d?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=161b22"/></a>
 
 <sub>Aberto a projetos, estágios e colaborações.</sub>
