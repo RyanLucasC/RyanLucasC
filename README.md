@@ -8,13 +8,15 @@
 
 <img src="assets/hero-v10.gif" width="100%" alt="Ryan Lucas Cardoso — Engenharia de Software, Dados e Inteligência Artificial"/>
 
-<p>Estudante de Engenharia de Software na UEM, construindo carreira em <b>Engenharia de Dados</b> e cloud.<br/>Aberto a oportunidades de estágio na área.</p>
+<p>Estudante de Engenharia de Software na UEM, com foco em <b>Engenharia de Dados</b>, cloud e IA.<br/>Desenvolvi e coloquei em produção o ERP de frota de uma transportadora.</p>
 
 <p>
-<img src="https://img.shields.io/badge/FOCO-Engenharia_de_Dados-ab7df8?style=flat-square&labelColor=161b22"/>
-<img src="https://img.shields.io/badge/BASE-Maring%C3%A1%2C_PR-30363d?style=flat-square&labelColor=161b22&logo=googlemaps&logoColor=c9d1d9"/>
-<a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="https://img.shields.io/badge/LinkedIn-ryanlucascardoso-30363d?style=flat-square&labelColor=161b22&logo=linkedin&logoColor=c9d1d9"/></a>
+<img src="https://img.shields.io/badge/FOCO-Engenharia_de_Dados-ab7df8?style=flat-square&labelColor=161b22" alt="Foco: Engenharia de Dados"/>
+<img src="https://img.shields.io/badge/BASE-Maring%C3%A1%2C_PR-30363d?style=flat-square&labelColor=161b22&logo=googlemaps&logoColor=c9d1d9" alt="Base: Maringá, PR"/>
+<img src="https://img.shields.io/badge/EST%C3%81GIO-Aberto_a_oportunidades-30363d?style=flat-square&labelColor=161b22" alt="Aberto a oportunidades de estágio"/>
+<br/>
 <a href="https://ryanlucascardoso.pages.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ryanlucascardoso.pages.dev-ab7df8?style=flat-square&labelColor=161b22&logo=cloudflare&logoColor=c9d1d9" alt="Portfólio"/></a>
+<a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="https://img.shields.io/badge/LinkedIn-ryanlucascardoso-30363d?style=flat-square&labelColor=161b22&logo=linkedin&logoColor=c9d1d9" alt="LinkedIn"/></a>
 </p>
 
 <p>
@@ -32,18 +34,18 @@
 
 ## Sobre
 
-Graduando em **Engenharia de Software na UEM** (2º ano), com foco em dados e computação em nuvem. Já coloquei um sistema em produção para um cliente real e quero me tornar engenheiro de dados.
+Graduando em **Engenharia de Software na UEM** (2º ano), construindo carreira em Engenharia de Dados. Gosto de levar um sistema do requisito até a produção: meu principal projeto é um ERP de frota em uso diário por um cliente real. Além do código, tenho vivência comercial e de gestão de projetos, faço iniciação científica e co-organizo uma comunidade de cloud em Maringá.
 
 ## Experiência
 
 <table>
 <tr>
-<td width="240" valign="top"><b>Main - Soluções em Software</b><br/><sub>ESTÁGIO · COMERCIAL E PROJETOS</sub></td>
-<td valign="top">Área Comercial e Assistente de Projetos: prospecção, negociação de contratos, levantamento de requisitos e acompanhamento das entregas.</td>
+<td width="240" valign="top"><b>RR Transportes e Terraplanagem</b><br/><sub>DESENVOLVEDOR</sub></td>
+<td valign="top">ERP de gestão de frota, do levantamento com o gestor ao sistema em produção em VPS Linux: viagens, fretes, abastecimento, manutenção e custos. <a href="https://ryanlucascardoso.pages.dev/erp/">Ver as telas</a></td>
 </tr>
 <tr>
-<td width="240" valign="top"><b>RR Transportes e Terraplanagem</b><br/><sub>DESENVOLVEDOR</sub></td>
-<td valign="top">ERP de gestão de frota e dashboards de fretes, abastecimento e custos, do desenho à produção em VPS Linux. <a href="#projetos">Ver projeto</a></td>
+<td width="240" valign="top"><b>Main - Soluções em Software</b><br/><sub>ESTÁGIO · COMERCIAL E PROJETOS</sub></td>
+<td valign="top">Área Comercial e Assistente de Projetos: prospecção, negociação de contratos, levantamento de requisitos e acompanhamento das entregas.</td>
 </tr>
 <tr>
 <td width="240" valign="top"><b>PIBIC · UEM</b><br/><sub>INICIAÇÃO CIENTÍFICA</sub></td>
@@ -57,59 +59,48 @@ Graduando em **Engenharia de Software na UEM** (2º ano), com foco em dados e co
 
 ## Projetos
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### ERP Logístico
 
-**ERP Logístico**
-<br/><sub>RR TRANSPORTES E TERRAPLANAGEM</sub>
+<sub>RR TRANSPORTES E TERRAPLANAGEM &nbsp;·&nbsp; EM PRODUÇÃO</sub>
 
-Sistema de gestão de frota e operação de transporte: API em FastAPI com SQLite e migrações, painel web para o gestor e app PWA para o motorista, que funciona sem sinal.
+<a href="https://ryanlucascardoso.pages.dev/erp/"><img src="https://ryanlucascardoso.pages.dev/erp/visao-geral-escuro-1568.webp" width="100%" alt="Painel do gestor do ERP Logístico, com o resultado do mês (dados fictícios de demonstração)"/></a>
 
-- Viagens com conferência do gestor, DRE, comissões e custos de combustível, manutenção e gastos avulsos com foto de recibo
-- Frete comparado ao piso mínimo da ANTT, com tabelas versionadas e atualizadas pela calculadora oficial
-- Alertas de vencimento e de manutenção por km, com notificações push
-- Auditoria de alterações, backup diário e teste semanal de restauração
-- Segurança: senhas com scrypt, sessões revogáveis, bloqueio por tentativas e CSP restritiva
-- Testes automatizados (pytest e Playwright) e CI no GitHub Actions, com verificação de dependências
-- Em produção em VPS Linux, com nginx, HTTPS (Let's Encrypt) e serviços isolados pelo systemd
+Sistema de gestão de frota e operação de transporte: API em FastAPI com SQLite, painel web para o gestor e app PWA para o motorista, que funciona sem sinal.
 
-<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Alembic-161b22?style=flat-square"/>
-<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9"/>
-<br/>
-<img src="https://img.shields.io/badge/%E2%97%8F_CONCLU%C3%8DDO-ab7df8?style=flat-square&labelColor=161b22"/>
+- **Operação e financeiro:** viagens com conferência do gestor, DRE, comissões e custos de combustível, manutenção e despesas com foto do recibo
+- **Regra de negócio real:** frete comparado ao piso mínimo da ANTT, alertas de vencimento e de manutenção por km, com notificações push
+- **Confiabilidade:** auditoria de alterações, backup diário, teste semanal de restauração, testes automatizados (pytest e Playwright) e CI no GitHub Actions
+- **Segurança:** senhas com scrypt, sessões revogáveis, bloqueio por tentativas e CSP restritiva
+- **Produção:** VPS Linux com nginx, HTTPS (Let's Encrypt) e serviços isolados pelo systemd
 
-</td>
-<td width="50%" valign="top">
+**[Ver as telas do sistema](https://ryanlucascardoso.pages.dev/erp/)** &nbsp;·&nbsp; painel do gestor e app do motorista, com dados fictícios de demonstração
 
-**Portfólio**
-<br/><sub>RESUME AS CODE</sub>
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=c9d1d9" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=c9d1d9" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Alembic-161b22?style=flat-square" alt="Alembic"/>
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=c9d1d9" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/pytest-161b22?style=flat-square&logo=pytest&logoColor=c9d1d9" alt="pytest"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=c9d1d9" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/nginx-161b22?style=flat-square&logo=nginx&logoColor=c9d1d9" alt="nginx"/>
+
+### Portfólio
+
+<sub>RESUME AS CODE &nbsp;·&nbsp; ATIVO</sub>
 
 Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dados por idioma. Atualizar o portfólio é editar esse arquivo: o build valida o conteúdo e gera todo o resto.
 
-- Validação no build: telefone, endereço, HTML, credenciais e links sem HTTPS impedem a publicação
-- Currículo em PDF no estilo LaTeX, gerado automaticamente, com prévia sempre atualizada no site
-- Nuvens em ASCII geradas por código: volumes 3D iluminados, com cor por caractere
-- Sem JavaScript no site, com CSP rígida, cabeçalhos de segurança e foto sem metadados
-- Nota 100 no Lighthouse em desempenho, acessibilidade, boas práticas e SEO
+- Validação no build: dados pessoais, credenciais e links sem HTTPS impedem a publicação
+- Currículo em PDF gerado automaticamente, com prévia sempre atualizada no site
+- Sem JavaScript no site, com CSP rígida e nota 100 no Lighthouse em desempenho, acessibilidade, boas práticas e SEO
 
-[Ver o site](https://ryanlucascardoso.pages.dev) &nbsp;·&nbsp; [Ver o código](https://github.com/RyanLucasC/ryanlucas-portfolio)
+**[Ver o site](https://ryanlucascardoso.pages.dev)** &nbsp;·&nbsp; [Ver o código](https://github.com/RyanLucasC/ryanlucas-portfolio)
 
-<img src="https://img.shields.io/badge/Astro-161b22?style=flat-square&logo=astro&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Cloudflare_Pages-161b22?style=flat-square&logo=cloudflarepages&logoColor=c9d1d9"/>
-<br/>
-<img src="https://img.shields.io/badge/%E2%97%8F_ATIVO-ab7df8?style=flat-square&labelColor=161b22"/>
-
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Astro-161b22?style=flat-square&logo=astro&logoColor=c9d1d9" alt="Astro"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9" alt="Tailwind CSS"/>
+<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=c9d1d9" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Cloudflare_Pages-161b22?style=flat-square&logo=cloudflarepages&logoColor=c9d1d9" alt="Cloudflare Pages"/>
 
 ## Tech Stack
 
@@ -117,37 +108,48 @@ Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dado
 <tr>
 <td width="170"><sub><b>LINGUAGENS</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/HTML_%2F_CSS-161b22?style=flat-square&logo=html5&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-161b22?style=flat-square" alt="SQL"/>
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=c9d1d9" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML_%2F_CSS-161b22?style=flat-square&logo=html5&logoColor=c9d1d9" alt="HTML / CSS"/>
 </td>
 </tr>
 <tr>
 <td width="170"><sub><b>DADOS E BACKEND</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Data_Engineering-161b22?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=c9d1d9" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=c9d1d9" alt="SQLite"/>
+<img src="https://img.shields.io/badge/Dashboards_web-161b22?style=flat-square" alt="Dashboards web"/>
 </td>
 </tr>
 <tr>
-<td width="170"><sub><b>WEB E DESIGN</b></sub></td>
+<td width="170"><sub><b>INFRA</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=c9d1d9" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=c9d1d9" alt="Git"/>
+<img src="https://img.shields.io/badge/Deploy_em_VPS-161b22?style=flat-square" alt="Deploy em VPS"/>
+<img src="https://img.shields.io/badge/nginx-161b22?style=flat-square&logo=nginx&logoColor=c9d1d9" alt="nginx"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-161b22?style=flat-square&logo=githubactions&logoColor=c9d1d9" alt="GitHub Actions"/>
 </td>
 </tr>
 <tr>
-<td width="170"><sub><b>CLOUD E FERRAMENTAS</b></sub></td>
+<td width="170"><sub><b>WEB</b></sub></td>
 <td>
-<img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Claude_AI-161b22?style=flat-square&logo=anthropic&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Astro-161b22?style=flat-square&logo=astro&logoColor=c9d1d9" alt="Astro"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9" alt="Tailwind CSS"/>
+</td>
+</tr>
+<tr>
+<td width="170"><sub><b>IA</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/Integra%C3%A7%C3%A3o_com_LLMs-161b22?style=flat-square" alt="Integração com LLMs"/>
+</td>
+</tr>
+<tr>
+<td width="170"><sub><b>ESTUDANDO</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-161b22?style=flat-square" alt="AWS"/>
+<img src="https://img.shields.io/badge/Engenharia_de_Dados-161b22?style=flat-square" alt="Engenharia de Dados"/>
 </td>
 </tr>
 </table>
@@ -155,10 +157,10 @@ Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dado
 ## Próximos passos
 
 <table>
-<tr><td>AWS Certified Cloud Practitioner</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
-<tr><td>Fundamentos de IA e Machine Learning</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
-<tr><td>Primeiros pipelines de Engenharia de Dados</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
-<tr><td>Projetos open source no GitHub</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
+<tr><td>AWS Certified Cloud Practitioner</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22" alt="Em andamento"/></td></tr>
+<tr><td>Fundamentos de IA e Machine Learning</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22" alt="Em andamento"/></td></tr>
+<tr><td>Primeiros pipelines de Engenharia de Dados</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22" alt="Na fila"/></td></tr>
+<tr><td>Projetos open source no GitHub</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22" alt="Na fila"/></td></tr>
 </table>
 
 <details>
@@ -216,11 +218,10 @@ Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dado
 <div align="center">
 
 <a href="https://ryanlucascardoso.pages.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ryanlucascardoso.pages.dev-ab7df8?style=for-the-badge&labelColor=161b22&logo=cloudflare&logoColor=c9d1d9" alt="Portfólio"/></a>
-<a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="https://img.shields.io/badge/LinkedIn-ryanlucascardoso-30363d?style=for-the-badge&logo=linkedin&logoColor=c9d1d9&labelColor=161b22"/></a>
+<a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="https://img.shields.io/badge/LinkedIn-ryanlucascardoso-30363d?style=for-the-badge&logo=linkedin&logoColor=c9d1d9&labelColor=161b22" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/ryanlucas.dev/"><img src="https://img.shields.io/badge/Instagram-ryanlucas.dev-30363d?style=for-the-badge&logo=instagram&logoColor=c9d1d9&labelColor=161b22" alt="Instagram"/></a>
-<a href="https://github.com/RyanLucasC"><img src="https://img.shields.io/badge/GitHub-RyanLucasC-30363d?style=for-the-badge&logo=github&logoColor=c9d1d9&labelColor=161b22"/></a>
 
-<sub>Aberto a projetos, estágios e colaborações.</sub>
+<sub>Aberto a oportunidades de estágio, projetos e colaborações.</sub>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
