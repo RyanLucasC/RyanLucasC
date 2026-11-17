@@ -14,16 +14,15 @@
 <img src="https://img.shields.io/badge/FOCO-Engenharia_de_Dados-ab7df8?style=flat-square&labelColor=161b22"/>
 <img src="https://img.shields.io/badge/BASE-Maring%C3%A1%2C_PR-30363d?style=flat-square&labelColor=161b22&logo=googlemaps&logoColor=c9d1d9"/>
 <a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="https://img.shields.io/badge/LinkedIn-ryanlucascardoso-30363d?style=flat-square&labelColor=161b22&logo=linkedin&logoColor=c9d1d9"/></a>
-<a href="https://www.instagram.com/ryanlucas.dev/"><img src="https://img.shields.io/badge/Instagram-ryanlucas.dev-30363d?style=flat-square&labelColor=161b22&logo=instagram&logoColor=c9d1d9" alt="Instagram"/></a>
 <a href="https://ryanlucascardoso.pages.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ryanlucascardoso.pages.dev-ab7df8?style=flat-square&labelColor=161b22&logo=cloudflare&logoColor=c9d1d9" alt="Portfólio"/></a>
 </p>
 
 <p>
 <a href="#sobre">Sobre</a> &nbsp;·&nbsp;
-<a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+<a href="#experiência">Experiência</a> &nbsp;·&nbsp;
 <a href="#projetos">Projetos</a> &nbsp;·&nbsp;
-<a href="#objetivos-2027">Objetivos</a> &nbsp;·&nbsp;
-<a href="#roadmap-de-certificações">Certificações</a> &nbsp;·&nbsp;
+<a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
+<a href="#próximos-passos">Próximos passos</a> &nbsp;·&nbsp;
 <a href="#contato">Contato</a>
 </p>
 
@@ -33,54 +32,26 @@
 
 ## Sobre
 
-Graduando em **Engenharia de Software na UEM**, com foco em dados e computação em nuvem. Uno a visão técnica da tecnologia à aplicação prática em negócios e gestão de projetos.
+Graduando em **Engenharia de Software na UEM** (2º ano), com foco em dados e computação em nuvem. Já coloquei um sistema em produção para um cliente real e quero me tornar engenheiro de dados.
 
-Na **Main - Soluções em Software**, empresa júnior da UEM, atuo na área Comercial e como Assistente de Projetos, cobrindo o ciclo de um serviço de tecnologia: da prospecção e negociação de contratos ao levantamento de requisitos e ao acompanhamento da entrega.
-
-Sou **co-organizador do Cloud Native Maringá**, capítulo local da comunidade CNCF, e trouxe os eventos da comunidade para a UEM.
-
-Na **RR Transportes e Terraplanagem**, aplico design de software e arquitetura web em sistemas internos e dashboards de gestão para fretes, abastecimento e custos operacionais.
-
-Busco desafios que exijam pensamento analítico e conectem tecnologia a resultados reais, com o objetivo de me tornar engenheiro de dados.
-
-## Tech Stack
+## Experiência
 
 <table>
 <tr>
-<td width="170"><sub><b>LINGUAGENS</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/HTML_%2F_CSS-161b22?style=flat-square&logo=html5&logoColor=c9d1d9"/>
-</td>
+<td width="240" valign="top"><b>Main - Soluções em Software</b><br/><sub>ESTÁGIO · COMERCIAL E PROJETOS</sub></td>
+<td valign="top">Área Comercial e Assistente de Projetos: prospecção, negociação de contratos, levantamento de requisitos e acompanhamento das entregas.</td>
 </tr>
 <tr>
-<td width="170"><sub><b>DADOS E BACKEND</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Data_Engineering-161b22?style=flat-square"/>
-</td>
+<td width="240" valign="top"><b>RR Transportes e Terraplanagem</b><br/><sub>DESENVOLVEDOR</sub></td>
+<td valign="top">ERP de gestão de frota e dashboards de fretes, abastecimento e custos, do desenho à produção em VPS Linux. <a href="#projetos">Ver projeto</a></td>
 </tr>
 <tr>
-<td width="170"><sub><b>WEB E DESIGN</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=c9d1d9"/>
-</td>
+<td width="240" valign="top"><b>PIBIC · UEM</b><br/><sub>INICIAÇÃO CIENTÍFICA</sub></td>
+<td valign="top">Pesquisa com Teoria de Resposta ao Item (TRI) aplicada a novas áreas, com apoio de IA.</td>
 </tr>
 <tr>
-<td width="170"><sub><b>CLOUD E FERRAMENTAS</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=c9d1d9"/>
-<img src="https://img.shields.io/badge/Claude_AI-161b22?style=flat-square&logo=anthropic&logoColor=c9d1d9"/>
-</td>
+<td width="240" valign="top"><b>Cloud Native Maringá</b><br/><sub>CO-ORGANIZADOR · CNCF</sub></td>
+<td valign="top">Co-organização do capítulo local da CNCF; trouxe os eventos da comunidade para a UEM.</td>
 </tr>
 </table>
 
@@ -140,19 +111,59 @@ Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dado
 </tr>
 </table>
 
-## Objetivos 2027
+## Tech Stack
 
 <table>
-<tr><td>Colocar o ERP logístico da RR Transportes em produção</td><td align="right"><img src="https://img.shields.io/badge/CONCLU%C3%8DDO-ab7df8?style=flat-square&labelColor=161b22"/></td></tr>
-<tr><td>Certificação AWS Cloud Practitioner</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
-<tr><td>Fundamentos de IA e Machine Learning</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
-<tr><td>Primeiros pipelines de Engenharia de Dados</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
-<tr><td>Trazer uma comunidade de cloud para a UEM (Cloud Native Maringá)</td><td align="right"><img src="https://img.shields.io/badge/CONCLU%C3%8DDO-ab7df8?style=flat-square&labelColor=161b22"/></td></tr>
-<tr><td>Projetos open source no GitHub</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
-<tr><td>PIBIC em Teoria de Resposta ao Item (TRI) e IA</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
+<tr>
+<td width="170"><sub><b>LINGUAGENS</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/C-161b22?style=flat-square&logo=c&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/HTML_%2F_CSS-161b22?style=flat-square&logo=html5&logoColor=c9d1d9"/>
+</td>
+</tr>
+<tr>
+<td width="170"><sub><b>DADOS E BACKEND</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Data_Engineering-161b22?style=flat-square"/>
+</td>
+</tr>
+<tr>
+<td width="170"><sub><b>WEB E DESIGN</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Figma-161b22?style=flat-square&logo=figma&logoColor=c9d1d9"/>
+</td>
+</tr>
+<tr>
+<td width="170"><sub><b>CLOUD E FERRAMENTAS</b></sub></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=c9d1d9"/>
+<img src="https://img.shields.io/badge/Claude_AI-161b22?style=flat-square&logo=anthropic&logoColor=c9d1d9"/>
+</td>
+</tr>
 </table>
 
-## Roadmap de certificações
+## Próximos passos
+
+<table>
+<tr><td>AWS Certified Cloud Practitioner</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
+<tr><td>Fundamentos de IA e Machine Learning</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
+<tr><td>Primeiros pipelines de Engenharia de Dados</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
+<tr><td>Projetos open source no GitHub</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
+</table>
+
+<details>
+<summary><b>Roadmap completo de certificações</b></summary>
+<br/>
 
 **Certificações-alvo (AWS)**
 
@@ -197,6 +208,8 @@ Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dado
 <td align="right" valign="top"><img src="https://img.shields.io/badge/%E2%97%8B_NA_FILA-8b949e?style=flat-square&labelColor=161b22"/></td>
 </tr>
 </table>
+
+</details>
 
 ## Contato
 
