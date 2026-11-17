@@ -8,7 +8,7 @@
 
 <img src="assets/hero-v10.gif" width="100%" alt="Ryan Lucas Cardoso — Engenharia de Software, Dados e Inteligência Artificial"/>
 
-<p>Estudante de Engenharia de Software na UEM, construindo carreira em <b>Engenharia de Dados</b> e cloud.<br/>Em busca de estágio na área.</p>
+<p>Estudante de Engenharia de Software na UEM, construindo carreira em <b>Engenharia de Dados</b> e cloud.<br/>Aberto a oportunidades de estágio na área.</p>
 
 <p>
 <img src="https://img.shields.io/badge/FOCO-Engenharia_de_Dados-ab7df8?style=flat-square&labelColor=161b22"/>
@@ -147,9 +147,10 @@ Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dado
 <tr><td>Certificação AWS Cloud Practitioner</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Fundamentos de IA e Machine Learning</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Primeiros pipelines de Engenharia de Dados</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
+<tr><td>Co-organizar o Cloud Native Maringá (CNCF)</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Comunidade tech de cloud na UEM</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
 <tr><td>Projetos open source no GitHub</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
-<tr><td>PIBIC</td><td align="right"><img src="https://img.shields.io/badge/NA_FILA-30363d?style=flat-square&labelColor=161b22"/></td></tr>
+<tr><td>PIBIC em Teoria de Resposta ao Item (TRI) e IA</td><td align="right"><img src="https://img.shields.io/badge/ANDAMENTO-c9d1d9?style=flat-square&labelColor=161b22"/></td></tr>
 </table>
 
 ## Roadmap de certificações
