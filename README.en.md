@@ -5,8 +5,9 @@
 -->
 
 <p align="right">
-<a href="README.md"><img src="assets/lang-pt.svg" height="34" alt="PT · Português"/></a>
-<a href="README.en.md"><img src="assets/lang-en-active.svg" height="34" alt="EN · English (current)"/></a>
+<a href="README.md"><img src="assets/buttons/lang-pt.svg" height="34" alt="PT · Português"/></a>
+<a href="README.en.md"><img src="assets/buttons/lang-en-active.svg" height="34" alt="EN · English (current)"/></a>
+<a href="README.en.static.md"><img src="assets/buttons/motion-off-en.svg" height="34" alt="No motion"/></a>
 </p>
 
 <div align="center">
@@ -35,15 +36,29 @@ Software Engineering student at UEM (State University of Maringá, Brazil), focu
 
 **Logistics ERP** · in production at RR Transportes e Terraplanagem
 <br/>Fleet and transport operations management: a FastAPI + SQLite API, a web dashboard for the manager and a PWA for drivers that works offline. Automated tests, CI, backups with restore testing, running on a Linux VPS with nginx and HTTPS.
-<br/><a href="https://ryanlucascardoso.pages.dev/erp/">See the screens</a>
+
+<p><a href="https://ryanlucascardoso.pages.dev/erp/"><img src="assets/buttons/screens-en.svg" height="34" alt="See the screens"/></a></p>
 
 **Portfolio** · resume as code
 <br/>Bilingual website and PDF resume generated from a single data file. No JavaScript, 100 on Lighthouse.
-<br/><a href="https://ryanlucascardoso.pages.dev">Visit the site</a> · <a href="https://github.com/RyanLucasC/ryanlucas-portfolio">See the code</a>
+
+<p><a href="https://ryanlucascardoso.pages.dev"><img src="assets/buttons/site-en.svg" height="34" alt="Visit the site"/></a> <a href="https://github.com/RyanLucasC/ryanlucas-portfolio"><img src="assets/buttons/code-en.svg" height="34" alt="See the code"/></a></p>
 
 ## Stack
 
-`Python` `SQL` `JavaScript` `FastAPI` `SQLite` `Linux` `Git` `Astro` `Tailwind CSS` `Figma` `Claude`
+<p>
+<img src="assets/stack/python.svg" height="40" alt="Python"/>
+<img src="assets/stack/sql.svg" height="40" alt="SQL"/>
+<img src="assets/stack/javascript.svg" height="40" alt="JavaScript"/>
+<img src="assets/stack/fastapi.svg" height="40" alt="FastAPI"/>
+<img src="assets/stack/sqlite.svg" height="40" alt="SQLite"/>
+<img src="assets/stack/linux.svg" height="40" alt="Linux"/>
+<img src="assets/stack/git.svg" height="40" alt="Git"/>
+<img src="assets/stack/astro.svg" height="40" alt="Astro"/>
+<img src="assets/stack/tailwind-css.svg" height="40" alt="Tailwind CSS"/>
+<img src="assets/stack/figma.svg" height="40" alt="Figma"/>
+<img src="assets/stack/claude.svg" height="40" alt="Claude"/>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 

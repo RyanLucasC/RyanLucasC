@@ -5,8 +5,9 @@
 -->
 
 <p align="right">
-<a href="README.md"><img src="assets/lang-pt-active.svg" height="34" alt="PT · Português (atual)"/></a>
-<a href="README.en.md"><img src="assets/lang-en.svg" height="34" alt="EN · English"/></a>
+<a href="README.md"><img src="assets/buttons/lang-pt-active.svg" height="34" alt="PT · Português (atual)"/></a>
+<a href="README.en.md"><img src="assets/buttons/lang-en.svg" height="34" alt="EN · English"/></a>
+<a href="README.static.md"><img src="assets/buttons/motion-off-pt.svg" height="34" alt="Sem movimento"/></a>
 </p>
 
 <div align="center">
@@ -35,15 +36,29 @@ Estudante de Engenharia de Software na UEM, com foco em **Engenharia de Dados**,
 
 **ERP Logístico** · em produção na RR Transportes e Terraplanagem
 <br/>Gestão de frota e operação de transporte: API em FastAPI com SQLite, painel web para o gestor e app PWA para o motorista, que funciona sem sinal. Tem testes automatizados, CI, backup com teste de restauração e roda em VPS Linux com nginx e HTTPS.
-<br/><a href="https://ryanlucascardoso.pages.dev/erp/">Ver as telas do sistema</a>
+
+<p><a href="https://ryanlucascardoso.pages.dev/erp/"><img src="assets/buttons/screens-pt.svg" height="34" alt="Ver as telas do sistema"/></a></p>
 
 **Portfólio** · resume as code
 <br/>Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dados. Sem JavaScript, com nota 100 no Lighthouse.
-<br/><a href="https://ryanlucascardoso.pages.dev">Ver o site</a> · <a href="https://github.com/RyanLucasC/ryanlucas-portfolio">Ver o código</a>
+
+<p><a href="https://ryanlucascardoso.pages.dev"><img src="assets/buttons/site-pt.svg" height="34" alt="Ver o site"/></a> <a href="https://github.com/RyanLucasC/ryanlucas-portfolio"><img src="assets/buttons/code-pt.svg" height="34" alt="Ver o código"/></a></p>
 
 ## Stack
 
-`Python` `SQL` `JavaScript` `FastAPI` `SQLite` `Linux` `Git` `Astro` `Tailwind CSS` `Figma` `Claude`
+<p>
+<img src="assets/stack/python.svg" height="40" alt="Python"/>
+<img src="assets/stack/sql.svg" height="40" alt="SQL"/>
+<img src="assets/stack/javascript.svg" height="40" alt="JavaScript"/>
+<img src="assets/stack/fastapi.svg" height="40" alt="FastAPI"/>
+<img src="assets/stack/sqlite.svg" height="40" alt="SQLite"/>
+<img src="assets/stack/linux.svg" height="40" alt="Linux"/>
+<img src="assets/stack/git.svg" height="40" alt="Git"/>
+<img src="assets/stack/astro.svg" height="40" alt="Astro"/>
+<img src="assets/stack/tailwind-css.svg" height="40" alt="Tailwind CSS"/>
+<img src="assets/stack/figma.svg" height="40" alt="Figma"/>
+<img src="assets/stack/claude.svg" height="40" alt="Claude"/>
+</p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
