@@ -59,6 +59,9 @@ Software Engineering student at UEM (State University of Maringá, Brazil), focu
 <img src="assets/stack/tailwind-css.svg" height="40" alt="Tailwind CSS"/>
 <img src="assets/stack/figma.svg" height="40" alt="Figma"/>
 <img src="assets/stack/claude.svg" height="40" alt="Claude"/>
+<img src="assets/stack/gemini.svg" height="40" alt="Gemini"/>
+<img src="assets/stack/antigravity.svg" height="40" alt="Antigravity"/>
+<img src="assets/stack/deepseek.svg" height="40" alt="DeepSeek"/>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>

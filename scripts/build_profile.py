@@ -123,6 +123,9 @@ STACK = [
     ("Tailwind CSS", "tailwindcss", False),
     ("Figma", "figma", False),
     ("Claude", "claude", False),
+    ("Gemini", "gemini", False),
+    ("Antigravity", "antigravity", False),
+    ("DeepSeek", "deepseek", False),
 ]
 
 
