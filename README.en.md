@@ -30,18 +30,20 @@ Software Engineering student at UEM (State University of Maringá, Brazil), focu
 - **RR Transportes e Terraplanagem** · I work in operations and built the fleet management ERP the company runs today
 - **Main - Soluções em Software** · internship in Sales and as a Project Assistant
 - **Undergraduate research (PIBIC) at UEM** · Item Response Theory (IRT) and AI
-- **Cloud Native Maringá (CNCF)** · co-organizer, bringing cloud events to UEM starting in 2027
+- **Cloud Native Maringá (CNCF)** · co-organizer of the local community, bringing cloud events to UEM starting in 2027
 - **AWS Certified Cloud Practitioner** · preparing
 
 ## Projects
 
 **Logistics ERP** · in production at RR Transportes e Terraplanagem
-<br/>Fleet and transport operations management: a FastAPI + SQLite API, a web dashboard for the manager and a PWA for drivers that works offline. Automated tests, CI, backups with restore testing, running on a Linux VPS with nginx and HTTPS.
+<br/>The trucking company had no real control over the money coming in and going out: 9 trucks and about 85 trips a month tracked in spreadsheets, paper and WhatsApp. I built the system that now runs trips, costs and freight, with a dashboard for the manager and an app for drivers that works offline.
+<br/>**Outcome:** the finance team's payday review dropped from 8 to 3 hours, or 62.5% less time.
+<br/><sub>FastAPI · SQLite · offline PWA · tests with pytest and Playwright · CI on GitHub Actions · Linux VPS with nginx and HTTPS</sub>
 
-<p><a href="https://ryanlucascardoso.pages.dev/en/erp/"><img src="assets/buttons/screens-en.svg" height="34" alt="See the screens"/></a></p>
+<p><a href="https://ryanlucascardoso.pages.dev/en/erp/"><img src="assets/buttons/screens-en.svg" height="34" alt="See the case study"/></a></p>
 
 **Portfolio** · resume as code
-<br/>Bilingual website and PDF resume generated from a single data file. No JavaScript, 100 on Lighthouse.
+<br/>Bilingual website and one-page PDF resume generated from a single data file. The build blocks publishing if it finds sensitive data. No JavaScript, 100 on Lighthouse.
 
 <p><a href="https://ryanlucascardoso.pages.dev/en/"><img src="assets/buttons/site-en.svg" height="34" alt="Visit the site"/></a> <a href="https://github.com/RyanLucasC/ryanlucas-portfolio"><img src="assets/buttons/code-en.svg" height="34" alt="See the code"/></a></p>
 
@@ -55,9 +57,11 @@ Software Engineering student at UEM (State University of Maringá, Brazil), focu
 <img src="assets/stack/sqlite.svg" height="40" alt="SQLite"/>
 <img src="assets/stack/linux.svg" height="40" alt="Linux"/>
 <img src="assets/stack/git.svg" height="40" alt="Git"/>
+<img src="assets/stack/pytest.svg" height="40" alt="pytest"/>
+<img src="assets/stack/playwright.svg" height="40" alt="Playwright"/>
+<img src="assets/stack/github-actions.svg" height="40" alt="GitHub Actions"/>
 <img src="assets/stack/astro.svg" height="40" alt="Astro"/>
 <img src="assets/stack/tailwind-css.svg" height="40" alt="Tailwind CSS"/>
-<img src="assets/stack/figma.svg" height="40" alt="Figma"/>
 <img src="assets/stack/claude.svg" height="40" alt="Claude"/>
 <img src="assets/stack/gemini.svg" height="40" alt="Gemini"/>
 <img src="assets/stack/antigravity.svg" height="40" alt="Antigravity"/>

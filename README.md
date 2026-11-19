@@ -30,18 +30,20 @@ Estudante de Engenharia de Software na UEM, com foco em **Engenharia de Dados**,
 - **RR Transportes e Terraplanagem** · atuo em operações; desenvolvi o ERP de gestão de frota que a empresa usa hoje
 - **Main - Soluções em Software** · estágio na Área Comercial e como Assistente de Projetos
 - **PIBIC na UEM** · pesquisa com Teoria de Resposta ao Item (TRI) e IA
-- **Cloud Native Maringá (CNCF)** · co-organizador, para trazer eventos de cloud à UEM a partir de 2027
+- **Cloud Native Maringá (CNCF)** · co-organizador da comunidade local, que vai levar eventos de cloud à UEM a partir de 2027
 - **AWS Certified Cloud Practitioner** · em preparação
 
 ## Projetos
 
 **ERP Logístico** · em produção na RR Transportes e Terraplanagem
-<br/>Gestão de frota e operação de transporte: API em FastAPI com SQLite, painel web para o gestor e app PWA para o motorista, que funciona sem sinal. Tem testes automatizados, CI, backup com teste de restauração e roda em VPS Linux com nginx e HTTPS.
+<br/>A transportadora não tinha controle real do dinheiro que entrava e saía: 9 caminhões e cerca de 85 viagens por mês controlados em planilhas, papel e WhatsApp. Desenvolvi o sistema que hoje organiza viagens, custos e fretes, com painel para o gestor e app para o motorista, que funciona sem sinal.
+<br/>**Resultado:** a conferência do financeiro no dia do pagamento caiu de 8 para 3 horas, ou seja, 62,5% menos tempo.
+<br/><sub>FastAPI · SQLite · PWA offline · testes com pytest e Playwright · CI no GitHub Actions · VPS Linux com nginx e HTTPS</sub>
 
-<p><a href="https://ryanlucascardoso.pages.dev/erp/"><img src="assets/buttons/screens-pt.svg" height="34" alt="Ver as telas do sistema"/></a></p>
+<p><a href="https://ryanlucascardoso.pages.dev/erp/"><img src="assets/buttons/screens-pt.svg" height="34" alt="Ver o estudo de caso"/></a></p>
 
 **Portfólio** · resume as code
-<br/>Site bilíngue e currículo em PDF gerados a partir de um único arquivo de dados. Sem JavaScript, com nota 100 no Lighthouse.
+<br/>Site bilíngue e currículo em PDF de uma página, gerados a partir de um único arquivo de dados. O build bloqueia a publicação se encontrar dado sensível. Sem JavaScript, com nota 100 no Lighthouse.
 
 <p><a href="https://ryanlucascardoso.pages.dev"><img src="assets/buttons/site-pt.svg" height="34" alt="Ver o site"/></a> <a href="https://github.com/RyanLucasC/ryanlucas-portfolio"><img src="assets/buttons/code-pt.svg" height="34" alt="Ver o código"/></a></p>
 
@@ -55,9 +57,11 @@ Estudante de Engenharia de Software na UEM, com foco em **Engenharia de Dados**,
 <img src="assets/stack/sqlite.svg" height="40" alt="SQLite"/>
 <img src="assets/stack/linux.svg" height="40" alt="Linux"/>
 <img src="assets/stack/git.svg" height="40" alt="Git"/>
+<img src="assets/stack/pytest.svg" height="40" alt="pytest"/>
+<img src="assets/stack/playwright.svg" height="40" alt="Playwright"/>
+<img src="assets/stack/github-actions.svg" height="40" alt="GitHub Actions"/>
 <img src="assets/stack/astro.svg" height="40" alt="Astro"/>
 <img src="assets/stack/tailwind-css.svg" height="40" alt="Tailwind CSS"/>
-<img src="assets/stack/figma.svg" height="40" alt="Figma"/>
 <img src="assets/stack/claude.svg" height="40" alt="Claude"/>
 <img src="assets/stack/gemini.svg" height="40" alt="Gemini"/>
 <img src="assets/stack/antigravity.svg" height="40" alt="Antigravity"/>
