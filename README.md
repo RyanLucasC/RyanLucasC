@@ -4,6 +4,11 @@
                  texto #e6edf3 / #c9d1d9 / #8b949e · acento #ab7df8 (uso pontual)
 -->
 
+<p align="right">
+<a href="README.md"><img src="assets/lang-pt-active.svg" height="34" alt="PT · Português (atual)"/></a>
+<a href="README.en.md"><img src="assets/lang-en.svg" height="34" alt="EN · English"/></a>
+</p>
+
 <div align="center">
 
 <img src="assets/hero-v10.gif" width="100%" alt="Ryan Lucas Cardoso — Engenharia de Software, Dados e Inteligência Artificial"/>
