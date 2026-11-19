@@ -14,9 +14,9 @@
 <img src="assets/hero-v10.gif" width="100%" alt="Ryan Lucas Cardoso — Engenharia de Software, Dados e Inteligência Artificial"/>
 
 <p>
-<a href="https://ryanlucascardoso.pages.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-ryanlucascardoso.pages.dev-ab7df8?style=flat-square&labelColor=161b22&logo=cloudflare&logoColor=c9d1d9" alt="Portfólio"/></a>
-<a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="https://img.shields.io/badge/LinkedIn-ryanlucascardoso-30363d?style=flat-square&labelColor=161b22&logo=linkedin&logoColor=c9d1d9" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/ryanlucas.dev/"><img src="https://img.shields.io/badge/Instagram-ryanlucas.dev-30363d?style=flat-square&labelColor=161b22&logo=instagram&logoColor=c9d1d9" alt="Instagram"/></a>
+<a href="https://ryanlucascardoso.pages.dev"><img src="assets/buttons/portfolio-pt.svg" height="34" alt="Portfólio"/></a>
+<a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="assets/buttons/linkedin.svg" height="34" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/ryanlucas.dev/"><img src="assets/buttons/instagram.svg" height="34" alt="Instagram"/></a>
 </p>
 
 </div>

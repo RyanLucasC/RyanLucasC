@@ -60,13 +60,13 @@ ARROW = "M{x} {y} h12 M{x2} {y1} l5 5 l-5 5"
 EXTERNAL = "M{x} {y2} l9 -9 M{x1} {y1} h6 v6"
 
 
-def button(label: str, *, active: bool = False, icon: str = "arrow") -> str:
+def button(label: str, *, active: bool = False, icon: str = "arrow", accent: bool = False) -> str:
     h = 34
     pad = 16
     w = round(pad + text_width(label) + 14 + 18 + pad - 6)
     bg = ACCENT if active else SURFACE
-    stroke = ACCENT if active else BORDER
-    fg = INK if active else TEXT
+    stroke = ACCENT if (active or accent) else BORDER
+    fg = INK if active else (ACCENT if accent else TEXT)
     ax = w - pad - 14
     if icon == "external":
         d = EXTERNAL.format(x=ax + 2, y2=h / 2 + 5, x1=ax + 5, y1=h / 2 - 4)
@@ -83,6 +83,12 @@ def button(label: str, *, active: bool = False, icon: str = "arrow") -> str:
 
 
 BUTTONS = {
+    # idioma
+    # contato (topo); o portfólio leva o acento roxo em contorno
+    "portfolio-pt": ("Portfólio", False, "external", True),
+    "portfolio-en": ("Portfolio", False, "external", True),
+    "linkedin": ("LinkedIn", False, "external"),
+    "instagram": ("Instagram", False, "external"),
     # idioma
     "lang-pt-active": ("PT · Português", True, "arrow"),
     "lang-pt": ("PT · Português", False, "arrow"),
@@ -152,8 +158,9 @@ def slug(label: str) -> str:
 
 
 def main() -> None:
-    for name, (label, active, icon) in BUTTONS.items():
-        write(ASSETS / "buttons" / f"{name}.svg", button(label, active=active, icon=icon))
+    for name, (label, active, icon, *rest) in BUTTONS.items():
+        accent = bool(rest and rest[0])
+        write(ASSETS / "buttons" / f"{name}.svg", button(label, active=active, icon=icon, accent=accent))
     for label, icon, mono in STACK:
         write(ASSETS / "stack" / f"{slug(label)}.svg", stack_tile(label, icon, mono))
     print("ok: botões e stack gerados")
