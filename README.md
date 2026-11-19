@@ -58,7 +58,6 @@ Estudante de Engenharia de Software na UEM, com foco em **Engenharia de Dados**,
 <img src="assets/stack/linux.svg" height="40" alt="Linux"/>
 <img src="assets/stack/git.svg" height="40" alt="Git"/>
 <img src="assets/stack/pytest.svg" height="40" alt="pytest"/>
-<img src="assets/stack/playwright.svg" height="40" alt="Playwright"/>
 <img src="assets/stack/github-actions.svg" height="40" alt="GitHub Actions"/>
 <img src="assets/stack/astro.svg" height="40" alt="Astro"/>
 <img src="assets/stack/tailwind-css.svg" height="40" alt="Tailwind CSS"/>

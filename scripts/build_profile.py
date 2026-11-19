@@ -120,7 +120,6 @@ STACK = [
     ("Linux", "linux", True),
     ("Git", "git", False),
     ("pytest", "pytest", False),
-    ("Playwright", "playwright", False),
     ("GitHub Actions", "githubactions", False),
     ("Astro", "astro", True),
     ("Tailwind CSS", "tailwindcss", False),
