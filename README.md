@@ -17,6 +17,8 @@
 <a href="https://ryanlucascardoso.pages.dev"><img src="assets/buttons/portfolio-pt.svg" height="34" alt="Portfólio"/></a>
 <a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="assets/buttons/linkedin.svg" height="34" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/ryanlucas.dev/"><img src="assets/buttons/instagram.svg" height="34" alt="Instagram"/></a>
+<a href="mailto:ryan.lucascardoso3@gmail.com"><img src="assets/buttons/email-pt.svg" height="34" alt="E-mail: ryan.lucascardoso3@gmail.com"/></a>
+<a href="https://ryanlucascardoso.pages.dev/curriculo-ryan-lucas-cardoso.pdf"><img src="assets/buttons/resume-pt.svg" height="34" alt="Currículo em PDF"/></a>
 </p>
 
 </div>

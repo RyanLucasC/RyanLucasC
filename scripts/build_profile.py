@@ -89,6 +89,10 @@ BUTTONS = {
     "portfolio-en": ("Portfolio", False, "external", True),
     "linkedin": ("LinkedIn", False, "external"),
     "instagram": ("Instagram", False, "external"),
+    "email-pt": ("E-mail", False, "external"),
+    "email-en": ("Email", False, "external"),
+    "resume-pt": ("Currículo", False, "external"),
+    "resume-en": ("Resume", False, "external"),
     # idioma
     "lang-pt-active": ("PT · Português", True, "arrow"),
     "lang-pt": ("PT · Português", False, "arrow"),

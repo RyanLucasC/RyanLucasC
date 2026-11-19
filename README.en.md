@@ -14,9 +14,11 @@
 <img src="assets/hero-v10.gif" width="100%" alt="Ryan Lucas Cardoso — Software Engineering, Data and Artificial Intelligence"/>
 
 <p>
-<a href="https://ryanlucascardoso.pages.dev"><img src="assets/buttons/portfolio-en.svg" height="34" alt="Portfolio"/></a>
+<a href="https://ryanlucascardoso.pages.dev/en/"><img src="assets/buttons/portfolio-en.svg" height="34" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/ryanlucascardoso/"><img src="assets/buttons/linkedin.svg" height="34" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/ryanlucas.dev/"><img src="assets/buttons/instagram.svg" height="34" alt="Instagram"/></a>
+<a href="mailto:ryan.lucascardoso3@gmail.com"><img src="assets/buttons/email-en.svg" height="34" alt="Email: ryan.lucascardoso3@gmail.com"/></a>
+<a href="https://ryanlucascardoso.pages.dev/resume-ryan-lucas-cardoso.pdf"><img src="assets/buttons/resume-en.svg" height="34" alt="Resume (PDF)"/></a>
 </p>
 
 </div>
@@ -36,12 +38,12 @@ Software Engineering student at UEM (State University of Maringá, Brazil), focu
 **Logistics ERP** · in production at RR Transportes e Terraplanagem
 <br/>Fleet and transport operations management: a FastAPI + SQLite API, a web dashboard for the manager and a PWA for drivers that works offline. Automated tests, CI, backups with restore testing, running on a Linux VPS with nginx and HTTPS.
 
-<p><a href="https://ryanlucascardoso.pages.dev/erp/"><img src="assets/buttons/screens-en.svg" height="34" alt="See the screens"/></a></p>
+<p><a href="https://ryanlucascardoso.pages.dev/en/erp/"><img src="assets/buttons/screens-en.svg" height="34" alt="See the screens"/></a></p>
 
 **Portfolio** · resume as code
 <br/>Bilingual website and PDF resume generated from a single data file. No JavaScript, 100 on Lighthouse.
 
-<p><a href="https://ryanlucascardoso.pages.dev"><img src="assets/buttons/site-en.svg" height="34" alt="Visit the site"/></a> <a href="https://github.com/RyanLucasC/ryanlucas-portfolio"><img src="assets/buttons/code-en.svg" height="34" alt="See the code"/></a></p>
+<p><a href="https://ryanlucascardoso.pages.dev/en/"><img src="assets/buttons/site-en.svg" height="34" alt="Visit the site"/></a> <a href="https://github.com/RyanLucasC/ryanlucas-portfolio"><img src="assets/buttons/code-en.svg" height="34" alt="See the code"/></a></p>
 
 ## Stack
 
