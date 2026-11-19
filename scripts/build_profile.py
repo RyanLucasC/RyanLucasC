@@ -1,4 +1,4 @@
-"""Gera os SVGs do perfil e as versões sem movimento do README.
+"""Gera os SVGs do perfil (botões e cartões da stack).
 
 Uso (na raiz do repositório):
     python scripts/build_profile.py
@@ -6,10 +6,8 @@ Uso (na raiz do repositório):
 O que ele faz:
   1. Botões (idioma, movimento e ações dos projetos) em assets/buttons/
   2. Cartões da stack em assets/stack/, a partir dos ícones em assets/icons/
-  3. README.static.md e README.en.static.md, a partir de README.md e README.en.md
 
-Edite só README.md e README.en.md e rode o script de novo: as versões
-sem movimento são regeneradas. Não edite os arquivos *.static.md à mão.
+Rode o script de novo sempre que mudar um rótulo de botão ou a lista da stack.
 
 Paleta (GitHub dark): fundo #0d1117 · superfície #161b22 · borda #30363d
 texto #e6edf3 / #c9d1d9 / #8b949e · acento #ab7df8 (uso pontual)
@@ -90,11 +88,6 @@ BUTTONS = {
     "lang-pt": ("PT · Português", False, "arrow"),
     "lang-en-active": ("EN · English", True, "arrow"),
     "lang-en": ("EN · English", False, "arrow"),
-    # movimento
-    "motion-off-pt": ("Sem movimento", False, "arrow"),
-    "motion-on-pt": ("Com movimento", False, "arrow"),
-    "motion-off-en": ("No motion", False, "arrow"),
-    "motion-on-en": ("With motion", False, "arrow"),
     # ações dos projetos
     "screens-pt": ("Ver as telas", False, "external"),
     "site-pt": ("Ver o site", False, "external"),
@@ -158,56 +151,12 @@ def slug(label: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", label.lower()).strip("-")
 
 
-# ---------------------------------------------------------------- versões sem movimento
-
-STATIC_SWAPS = [
-    ("assets/hero-v10.gif", "assets/hero-v10-static.png"),
-    ("assets/divider.svg", "assets/divider-static.svg"),
-    ('href="README.md"', 'href="README.static.md"'),
-    ('href="README.en.md"', 'href="README.en.static.md"'),
-    ("assets/buttons/motion-off-pt.svg", "assets/buttons/motion-on-pt.svg"),
-    ("assets/buttons/motion-off-en.svg", "assets/buttons/motion-on-en.svg"),
-    ('alt="Sem movimento"', 'alt="Com movimento"'),
-    ('alt="No motion"', 'alt="With motion"'),
-]
-
-# o botão de movimento, na versão estática, volta para a versão animada
-MOTION_LINK = {
-    "README.md": ('href="README.static.md"><img src="assets/buttons/motion-on-pt.svg"',
-                  'href="README.md"><img src="assets/buttons/motion-on-pt.svg"'),
-    "README.en.md": ('href="README.en.static.md"><img src="assets/buttons/motion-on-en.svg"',
-                     'href="README.en.md"><img src="assets/buttons/motion-on-en.svg"'),
-}
-
-STATIC_NOTE = "<!-- Gerado por scripts/build_profile.py a partir de {src}. Não edite à mão. -->\n"
-
-
-def static_divider() -> str:
-    svg = (ASSETS / "divider.svg").read_text(encoding="utf-8")
-    svg = re.sub(r"\s*<animate[^>]*/>", "", svg)
-    svg = re.sub(r"\s*<animateTransform[^>]*/>", "", svg)
-    return svg
-
-
-def build_static(src_name: str, dst_name: str) -> None:
-    text = (ROOT / src_name).read_text(encoding="utf-8")
-    # o botão "sem movimento" do original aponta para a versão estática
-    for a, b in STATIC_SWAPS:
-        text = text.replace(a, b)
-    a, b = MOTION_LINK[src_name]
-    text = text.replace(a, b)
-    write(ROOT / dst_name, STATIC_NOTE.format(src=src_name) + text)
-
-
 def main() -> None:
     for name, (label, active, icon) in BUTTONS.items():
         write(ASSETS / "buttons" / f"{name}.svg", button(label, active=active, icon=icon))
     for label, icon, mono in STACK:
         write(ASSETS / "stack" / f"{slug(label)}.svg", stack_tile(label, icon, mono))
-    write(ASSETS / "divider-static.svg", static_divider())
-    build_static("README.md", "README.static.md")
-    build_static("README.en.md", "README.en.static.md")
-    print("ok: botões, stack e versões sem movimento gerados")
+    print("ok: botões e stack gerados")
 
 
 if __name__ == "__main__":

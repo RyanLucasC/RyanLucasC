@@ -7,7 +7,6 @@
 <p align="right">
 <a href="README.md"><img src="assets/buttons/lang-pt.svg" height="34" alt="PT · Português"/></a>
 <a href="README.en.md"><img src="assets/buttons/lang-en-active.svg" height="34" alt="EN · English (current)"/></a>
-<a href="README.en.static.md"><img src="assets/buttons/motion-off-en.svg" height="34" alt="No motion"/></a>
 </p>
 
 <div align="center">
